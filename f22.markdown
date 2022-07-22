@@ -13,7 +13,7 @@ CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
 </center><p></p>
 
 <!--
-- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
+- [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
 -->
 <!-- - For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA). -->
 - For general course content related questions, please join our [discord](https://discord.gg/3yFqmRjZDA).
@@ -27,8 +27,8 @@ CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
       <!-- <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://conferences.law.stanford.edu/cyberday/wp-content/uploads/sites/10/2016/10/Bonah_Dan_cropped.jpg" alt="Dan Boneh"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://arthurgervais.com/images/Arthur_bio_photo.jpg" alt="Arthur Gervais"></th>
       <th style="width: 20%;"><img style="object-fit:cover" width=150 height=200 src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66044&s=300&type=portrait" alt="Andrew Miller"></th> -->
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/christine_parlour.jpg" alt="Christine Parlour"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="./assets/christine_parlour.jpg" alt="Christine Parlour"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="./assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
     </tr>
   </thead>
   <tbody>
