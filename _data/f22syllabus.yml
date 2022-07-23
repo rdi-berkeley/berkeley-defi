@@ -8,23 +8,23 @@
   topic: Introduction to Traditional Finance
 - date: 09/27
   topic: DEX
-- date: 09/30
-  topic: Decentralized Lending
 - date: 10/04
-  topic: Stablecoins
+  topic: Decentralized Lending
 - date: 10/11
-  topic: Oracles
+  topic: Stablecoins
 - date: 10/18
-  topic: Synthetics and Derivatives
+  topic: Oracles
 - date: 10/25
-  topic: Privacy on the Blockchain
+  topic: Synthetics and Derivatives
 - date: 11/1
-  topic: Decentralized Identities
+  topic: Incentive Design in DeFi
 - date: 11/8
   topic: DeFi Security I
 - date: 11/15
   topic: DeFi Security II
 - date: 11/22
-  topic: Incentive Design in DeFi
+  topic: Privacy on the Blockchain
 - date: 11/29
-  topic: Regulatory Issues with DeFi
+  topic: Decentralized Identities
+- date: 12/6
+  topic: Optional Lecture: Regulatory Issues in DeFi
