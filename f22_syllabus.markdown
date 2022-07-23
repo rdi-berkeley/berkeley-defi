@@ -8,8 +8,8 @@ permalink: /f22_syllabus
   <thead>
       <th style="width: 10%;">Date</th>
       <th style="width: 10%;"> Quiz </th>
-      <th style="width: 50%;"> Topic </th>
-      <th style="width: 30%;"> Recommended reading </th>
+      <th style="width: 50%;"> Asynchronous Lecture Video </th>
+      <th style="width: 30%;"> Synchronous Q&A </th>
   </thead>
   <tbody>
     {% for row in site.data.f22syllabus %}
@@ -39,18 +39,10 @@ permalink: /f22_syllabus
         {% endif %}
       </td>
       <td>
-        {% if row.reading %}
-        <ul style="margin-bottom: 0;">
-          {% for r in row.reading %}
-            {% if r.file %}
-              {% assign reading_link = 'https://berkeley-defi.github.io/assets/material/' | append: r.file %}
-            {% endif %}
-            {% if r.link %}
-              {% assign reading_link = r.link %}
-            {% endif %}
-          <li> <a target="_parent" href="{{reading_link}}"> {{ r.name }} </a> </li>
-          {% endfor %}
-        </ul>
+        {% if row.ama %}
+          {{row.ama}}
+        {% else %}
+          TBD
         {% endif %}
       </td>
     </tr>
