@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Decentralized Finance"
+subtitle: "Fall 2022"
 permalink: /f22
 redirect_from:
   - /
 ---
 
-<!-- # Decentralized Finance -->
-
 <center>
+<h2>Fall 2022</h2>
 CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
 </center><p></p>
 

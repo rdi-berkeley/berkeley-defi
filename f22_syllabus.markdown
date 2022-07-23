@@ -9,7 +9,7 @@ permalink: /f22_syllabus
       <th style="width: 10%;">Date</th>
       <th style="width: 10%;"> Quiz </th>
       <th style="width: 50%;"> Asynchronous Lecture Video </th>
-      <th style="width: 30%;"> Synchronous Q&A </th>
+      <th style="width: 30%;"> Synchronous AMA </th>
   </thead>
   <tbody>
     {% for row in site.data.f22syllabus %}
