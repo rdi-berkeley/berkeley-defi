@@ -7,8 +7,8 @@ permalink: /f22_syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
       <th style="width: 10%;"> Date </th>
-      <th style="width: 10%;"> Quiz </th>
-      <th style="width: 50%;"> Asynchronous Lecture Video </th>
+      <th style="width: 15%;"> Quiz </th>
+      <th style="width: 45%;"> Asynchronous Lecture Video </th>
       <th style="width: 30%;"> Synchronous AMA </th>
   </thead>
   <tbody>
