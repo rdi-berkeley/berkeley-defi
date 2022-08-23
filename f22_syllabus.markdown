@@ -6,7 +6,6 @@ permalink: /f22_syllabus
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 10%;">Date</th>
       <th style="width: 10%;"> Quiz </th>
       <th style="width: 50%;"> Asynchronous Lecture Video </th>
       <th style="width: 30%;"> Synchronous AMA </th>
@@ -14,7 +13,6 @@ permalink: /f22_syllabus
   <tbody>
     {% for row in site.data.f22syllabus %}
     <tr>
-      <td> {{ row.date }} </td>
       <td>
         {% if row.quiz %}
           <a target="_parent" href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
@@ -36,7 +34,8 @@ permalink: /f22_syllabus
           <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
           {% endfor %}
         </ul>
-        {% endif %}
+        {% endif %}      
+        Released {{ row.date }}
       </td>
       <td>
         {% if row.ama %}
