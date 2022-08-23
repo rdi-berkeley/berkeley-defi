@@ -36,10 +36,16 @@ permalink: /f22_syllabus
         </ul>
         {% endif %}      
         Released {{ row.date }}
+        {% if row.next %}
+          &middot; Watch by {{ row.next }}
+        {% endif %}
       </td>
       <td>
         {% if row.ama %}
           {{row.ama}}
+          {% if row.next %}
+            <br> On {{ row.next }} at 10:00 AM PT
+          {% endif %}
         {% else %}
           TBD
         {% endif %}
