@@ -8,12 +8,11 @@
   ama: Dan Boneh
 - date: 09/13
   next: 09/20
-  topic: Introduction to Smart Contracts
-  ama: Andrew Miller
-- date: 09/20
-  next: 09/27
   topic: Introduction to Traditional Finance
   ama: Christine Parlour
+- date: 09/20
+  next: 09/27
+  topic: Introduction to Smart Contracts
 - date: 09/27
   next: 10/04
   topic: DEX
@@ -22,6 +21,7 @@
   next: 10/11
   topic: Decentralized Lending
 - date: 10/11
+  ama: Andrew Miller
   next: 10/18
   topic: Stablecoins
 - date: 10/18
