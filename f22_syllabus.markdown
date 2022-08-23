@@ -46,7 +46,11 @@ permalink: /f22_syllabus
         {% if row.ama %}
           {{row.ama}}
           {% if row.next %}
-            <br> On {{ row.next }} at 10:00 AM PT
+            {% if row.hide %}
+              <br>
+            {% else %}
+              <br> On {{ row.next }} at 10:00 AM PT
+            {% endif %}
           {% endif %}
         {% else %}
           TBD
