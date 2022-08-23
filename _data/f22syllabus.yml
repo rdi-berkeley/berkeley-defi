@@ -1,39 +1,38 @@
 - date: 08/30
   topic: Introduction and Overview of DeFi
-  ama: N/A
+  ama: Dawn Song
 - date: 09/06
   topic: Introduction to Blockchain Technology
-  ama: Dawn Song
+  ama: Dan Boneh
 - date: 09/13
   topic: Introduction to Smart Contracts
-  ama: Dan Boneh
+  ama: Andrew Miller
 - date: 09/20
   topic: Introduction to Traditional Finance
-  ama: Andrew Miller
+  ama: Christine Parlour
 - date: 09/27
   topic: DEX
-  ama: Christine Parlour
+  ama: Arthur Gervais
 - date: 10/04
   topic: Decentralized Lending
-  ama: Arthur Gervais
 - date: 10/11
   topic: Stablecoins
 - date: 10/18
   topic: Oracles
 - date: 10/25
   topic: Synthetics and Derivatives
+  ama: N/A (<a href="https://cesc.io">CESC</a>)
 - date: 11/1
   topic: Incentive Design in DeFi
-  ama: N/A (<a href="https://cesc.io">CESC</a>)
+  ama: Tim Roughgarden
 - date: 11/8
   topic: DeFi Security I
-  ama: Tim Roughgarden
+  ama: Sam Sun
 - date: 11/15
   topic: DeFi Security II
-  ama: Sam Sun
+  ama: Stani Kulechov
 - date: 11/22
   topic: Privacy on the Blockchain
-  ama: Stani Kulechov
 - date: 11/29
   topic: Decentralized Identities
 - date: 12/6
