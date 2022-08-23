@@ -6,10 +6,10 @@ permalink: /f22_syllabus
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 10%;"> Date </th>
-      <th style="width: 15%;"> Quiz </th>
-      <th style="width: 45%;"> Asynchronous Lecture Video </th>
-      <th style="width: 30%;"> Synchronous AMA </th>
+      <th style="width: 10%;"> <i>Date</i> </th>
+      <th style="width: 15%;"> Quiz<br>(Due by <i>Date</i>) </th>
+      <th style="width: 45%;"> Asynchronous Lecture Video<br>(Watch by <i>Date</i>) </th>
+      <th style="width: 30%;"> Synchronous AMA<br>(At 10:00 AM on <i>Date</i>) </th>
   </thead>
   <tbody>
     {% for row in site.data.f22syllabus %}
@@ -21,7 +21,6 @@ permalink: /f22_syllabus
         {% else %}
           TBD
         {% endif %}
-        <br>Due {{ row.next }}
       </td>
       <td> {{ row.topic }}
         <br>
@@ -38,20 +37,10 @@ permalink: /f22_syllabus
           {% endfor %}
         </ul>
         {% endif %}      
-        {% if row.next %}
-          Watch by {{ row.next }}
-        {% endif %}
       </td>
       <td>
         {% if row.ama %}
           {{row.ama}}
-          {% if row.next %}
-            {% if row.hide %}
-              <br>
-            {% else %}
-              <br> On {{ row.next }} at 10:00 AM PT
-            {% endif %}
-          {% endif %}
         {% else %}
           TBD
         {% endif %}
