@@ -17,13 +17,13 @@
 - date: 09/27
   next: 10/04
   topic: DEX
-  ama: Arthur Gervais
 - date: 10/04
   next: 10/11
   ama: Andrew Miller
   topic: Decentralized Lending
 - date: 10/11
   next: 10/18
+  ama: Arthur Gervais
   topic: Stablecoins
 - date: 10/18
   next: 10/25
