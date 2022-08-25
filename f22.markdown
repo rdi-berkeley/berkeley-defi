@@ -195,24 +195,31 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 
 **Honorary Tier**: Instructors, guest speakers, fireside chat speakers, TAs, and the most supportive students who help others on Discord and YouTube will be rewarded with special NFTs.
 
-**Legendary Tier**: Students must complete at least 6 (out of 13) quizzes on time (before the following lecture date as specified on the website), and finish the two labs by 11:59:59pm 6th Dec 2021 PST with a grade of 16 out of 20 total points (5 points for Lab 1, 15 points for Lab 2).
+**Legendary Tier**: Students must:
+* Complete at least 12 quizzes on time (before the following lecture date as specified on the website); and
+* Receive a final grade of at least 40 out of 50 marks.
+    * (14 marks) Finish the two assignments by Oct 4th 2022 PST and Oct 10th 2022 PST
+    * (36 marks) Finish the two two labs with by Nov 1st 2022 PST and Nov 8th 2022 PST
 
-**Ninja Tier**: Students must complete at least 10 (out of 13) quizzes and receive a grade of 10 out of 25 total points by 11:59:59pm 15th Jan 2022 PST
-* 5 points for Lab 1
-* 15 points for Lab 2
-* 8 points for writing an article about relevant topic covered in this course or your experience of the course posted online, for example a blog article on:
-    * Summarizing information from certain lectures
-    * A postmortem on the learning experience
-    * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+**Ninja Tier**: Students must complete at least 10 quizzes before Dec 12th 2022 PST
+* Complete at least 10 quizzes on time (before the following lecture date as specified on the website); and
+* Receive a final grade of at least 20 out of 58 marks.
+    * (14 marks) Finish the two assignments by Oct 4th 2022 PST and Oct 10th 2022 PST
+    * (36 marks) Finish the two two labs with by Nov 1st 2022 PST and Nov 8th 2022 PST
+    * (8 marks) Write an article about relevant topic covered in this course or your experience of the course posted online,
+        * for example a blog article on:
+            * Summarizing information from certain lectures
+            * A postmortem on the learning experience
+            * Novel financial services on DeFi, such as flash loans or AMM exchanges.
+        * The article’s marking criteria can be found below:
+            * Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
+            * Importance (2 marks): Content conveys an important aspect of DeFi to the audience
+            * Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
+            * References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
 
-The article's marking criteria can be found below:
-* Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
-* Importance (2 marks): Content conveys an important aspect of DeFi to the audience
-* Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
-* References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
-
-**Trailblazer Tier**: Students must complete at least 10 (out of 13) quizzes and finish Lab 1 with a score of at least 4 out of 5 total points by 11:59:59pm 15th Jan 2022 PST.
-
+**Trailblazer Tier**:
+* Students must complete at least 10 quizzes before Dec 31st 2022 PST; and
+* Finish the two assignments with a score of at least 10 out of 14 total points before Dec 31st 2022 PST.
 
 ## Course Description
 
