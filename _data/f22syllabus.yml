@@ -13,6 +13,7 @@
 - date: 09/20
   next: 09/27
   topic: Introduction to Smart Contracts
+  ama: Peter Van Valkenburgh
 - date: 09/27
   next: 10/04
   topic: DEX
@@ -27,6 +28,7 @@
 - date: 10/18
   next: 10/25
   topic: Oracles
+  ama: Ari Juels
 - date: 10/25
   next: 11/1
   topic: Synthetics and Derivatives
