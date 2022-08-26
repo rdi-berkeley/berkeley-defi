@@ -1,6 +1,25 @@
 - date: 08/30
   next: 09/06
   topic: Introduction and Overview of DeFi
+  youtube_premiere: https://youtu.be/gX3mc83CJtQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  slides: 
+    - name: Berkeley DeFi course logistics
+      file: lec1.2-berkeley-logistics-dawn.pdf
+    - name: Introduction and Overview of DeFi
+      file: lec1-dawn-defi-mooc-intro-defi-f21.pdf
+    - name: Lecture 1 Recap
+      file: Lecture 1 Recap Slides.pdf
+  reading:
+    - name: CeFi vs. DeFi
+      file: arthur-cefi-vs-defi-2106.08157.pdf
+    - name: DeFi SoK
+      file: defi-sok-ariah-2101.08778.pdf
+    - name: Schär, F., 2021
+      file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
+  quiz:
+    name: Quiz 1
+    link: https://forms.gle/Pu3s6FFDq5kfXfcs8
   ama: Dawn Song
 - date: 09/06
   next: 09/13
