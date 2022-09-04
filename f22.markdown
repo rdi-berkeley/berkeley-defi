@@ -90,7 +90,7 @@ MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students 
 If you need a permission code to join the course, please fill out [this form](https://forms.gle/7mGPbhVh77nm3mSr5) and we'll get back to you as soon as possible.
 
 ## Participation
-Each week, we will have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 8 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out [this form](https://forms.gle/PBM2v8BQ7rmZB8Nc6) to request an exception.
+Each week, we will have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 10 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. If you have a time conflict with another class or another reason you cannot attend, please fill out [this form](https://forms.gle/PBM2v8BQ7rmZB8Nc6) to request an exception.
 
 ## Course Syllabus
 <iframe id="syllabus" src="./f22_syllabus" width="100%" height="100" frameborder=0> </iframe>
@@ -165,7 +165,7 @@ Note: Students enrolled in the MBA and EWMBA versions of the course will not be 
 
 ### Quizzes
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Wednesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group Project
 
