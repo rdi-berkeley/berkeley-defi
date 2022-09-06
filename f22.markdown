@@ -118,7 +118,7 @@ Each week, we will have a guest speaker do an "Ask Me Anything" session to answe
 </script>
 
 ## Grading
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (3-5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
 Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below.
 
