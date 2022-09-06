@@ -21,6 +21,27 @@
   next: 09/13
   topic: Introduction to Blockchain Technology
   ama: Dan Boneh
+  youtube_premiere: https://www.youtube.com/watch?v=FmKbGHu7oAM
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31 
+  quiz:
+    name: Quiz 2
+    link: https://forms.gle/KnZgwJhNhVLHtggw8
+  slides:
+  - name: Introduction to Blockchain Technology
+    file: lec2-dan-tech-intro.pdf
+  - name: Lecture 2 Recap
+    file: Lecture 2 Recap Slides.pdf
+  reading:
+  - name: Lightning Network
+    file: lightning-network-paper.pdf
+  - name: Multi-Path Routing
+    file: 1910.01834.pdf
+  - name: Rollup
+    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+  - name: Bridges
+    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Bitcoin Whitepaper
+    file: bitcoin.pdf 
 - date: 09/13
   next: 09/20
   topic: Introduction to Traditional Finance
