@@ -33,7 +33,7 @@ permalink: /f22_syllabus
         {% if row.slides %}
         <ul style="margin-bottom: 0;">
           {% for s in row.slides %}
-          <li> <a target="_parent" href="https://berkeley-defi.github.io/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
+          <li> <a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/{{s.file}}" style="font-size: 80%;"> Slides: {{ s.name }} </a> </li>
           {% endfor %}
         </ul>
         {% endif %}      
