@@ -46,10 +46,10 @@ CS294-177 · CS194-177 · MBA 237.2 · EWMBA 237.2 · MFE 230T.3
   </tbody>
 </table>
 
-## TAs
+## Course Staff
 
-Vivek Nair
-<!-- Nate Pola; Neil Giridharan; Xiaoyuan Liu -->
+Vivek Nair (Head TA), Elden Ren (Reader), Vikhyath Mondreti (Reader), Rahul Shah (Reader)
+
 
 ## Meetings
 
@@ -60,15 +60,14 @@ Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUW
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
-<!-- ## Office Hours
-To be determined. -->
+## Office Hours
 
-<!--
-| Vivek Nair (Head TA/GSI) | 12:30pm-01:30pm Tue | [Zoom link](https://berkeley.zoom.us/j/5176419216) |
-| Dawn Song (Professor) | 05:00pm-05:30pm Wed | [Zoom link](https://berkeley.zoom.us/j/93029293682?pwd%3DOVBybGhMYVBCTEJUelNyRm5SdHZuZz09&sa=D&source=calendar&usg=AOvVaw1DYoPVsE2MYIbUQwxzojdD) (ID: 93029293682, Passcode: 5q47hS3N) |
-| Xiaoyuan Liu (TA/GSI) | 12:30pm-01:30pm Thu | [Zoom link](https://berkeley.zoom.us/j/94026140944?pwd=blcxeE5DZmNHWWdDN0RxS2RpdEQvdz09) |
-| Neil Giridharan (TA/GSI) | 03:00pm-04:00pm Fri | [Zoom link](https://berkeley.zoom.us/j/5432961734) |
--->
+All office hours are held remotely (online).
+
+| Vikhyath Mondreti | 10:00am-11:00am Mon | [Meeting link](https://meet.google.com/wdv-merv-fgi) |
+| Elden Ren | 04:00pm-05:00pm Mon | [Meeting link](https://meet.google.com/qfo-xbpx-ysz) |
+| Vivek Nair | 12:00pm-01:00pm Wed | [Meeting link](https://meet.google.com/qfz-ziqa-ukj) |
+| Rahul Shah | 03:00pm-04:00pm Wed | [Meeting link](https://meet.google.com/sqf-pfzi-yoa) |
 
 ## Enrollment
 CS undergraduate students: please register for CS194-177.<br>
