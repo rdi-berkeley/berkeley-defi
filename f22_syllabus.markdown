@@ -37,6 +37,19 @@ permalink: /f22_syllabus
           {% endfor %}
         </ul>
         {% endif %}      
+        {% if row.reading %}
+        <ul style="margin-bottom: 0;">
+          {% for r in row.reading %}
+            {% if r.file %}
+              {% assign reading_link = 'https://berkeley-defi.github.io/assets/material/' | append: r.file %}
+            {% endif %}
+            {% if r.link %}
+              {% assign reading_link = r.link %}
+            {% endif %}
+          <li> <a target="_parent" href="{{reading_link}}"> Reading: {{ r.name }} </a> </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </td>
       <td>
         {% if row.ama %}
