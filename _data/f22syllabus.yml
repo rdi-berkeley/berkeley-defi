@@ -81,7 +81,7 @@
     link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
   - name: Solidity by Example
     link: https://solidity-by-example.org/ 
-  ama: Peter Van Valkenburgh
+  ama: Peter Van Valkenburgh: “Current Topics in Crypto Regulation”
 - date: 09/27
   next: 10/04
   topic: DEX
