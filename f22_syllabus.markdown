@@ -54,6 +54,9 @@ permalink: /f22_syllabus
       <td>
         {% if row.ama %}
           {{row.ama}}
+          {% if row.recording %}
+            <br><a target="_parent" href="{{row.recording}}" style="text-decoration: underline;">Watch Recording</a>
+          {% endif %}
         {% else %}
           TBD
         {% endif %}
