@@ -73,6 +73,8 @@
   slides:
   - name: Introduction to Smart Contracts
     file: Lecture 3 Slides.pdf
+  - name: Cryptocurrency and Privacy Law
+    file: Cryptocurrency-and-Privacy-Law.pdf
   reading:
   - name: Formalizing and Securing Relationships on Public Networks
     link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
