@@ -173,6 +173,10 @@ Students will be completing an open-ended research project culminating in a pres
 - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
 - **Project Proposal**: After your project idea and logistics are finalized, please fill out [this form](https://forms.gle/Vnmizcn6S8qpCefVA) (Due 10/03).
 
+### Bonus Points: CESC
+
+This year, Berkeley RDI will be hosting the [Crypto Economics Security Conference (CESC)](https://cesc.io/) from Oct 31 to Nov 1. There will be no AMA that week. Instead, we highly recommend that you attend CESC to learn more about DeFi topics you may be interested in. All students who attend CESC and produce a short written report about one or more interesting presentations at the conference will be awarded bonus points in the course. Students who are participating in a course project will be eligible for additional bonus points if they present their project at the CESC poster session. If you are interested in taking advantage of either of these extra credit opportunities, please register as soon as possible at [CESC.io](https://cesc.io/). Registration is free, but capacity for in-person attendance is limited.
+
 <!--
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 -->
