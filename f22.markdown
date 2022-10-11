@@ -190,7 +190,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Group formation ([Link](https://docs.google.com/forms/d/e/1FAIpQLSfHCz_fQXdo_-x8bnxF5jRDQEGezg97z0dCI7ymPI3gGRg6Dw/viewform))       | 8/30      | 9/12
 | Project proposal ([Link](https://docs.google.com/forms/d/e/1FAIpQLSc5uMyiPJoSUtMyd60gAr5wWp4K2pIfcgUaKyT_7J9LUBF7Lw/viewform))      | 9/13      | 10/03
 | Assignment 1 ([Link](https://docs.google.com/forms/d/e/1FAIpQLSc7UgNu8uKGGoDHkCTqF_gX9Ej0TnMILeVkvRUcShmpj5B8Gw/viewform))   | 10/04     | 10/10
-| Assignment 2          | 10/18     | 10/24
+| Assignment 2 ([Link](https://docs.google.com/forms/d/e/1FAIpQLSetlVx15TKrOk_aP28eFnU4K2wXEjlJZeDj1TdEnmh-GJlbZw/viewform))          | 10/18     | 10/24
 | Project milestone     | 10/25     | 10/30
 | Lab 1                 | 11/01     | 11/07
 | Lab 2                 | 11/08     | 11/21
