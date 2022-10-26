@@ -183,6 +183,25 @@
   topic: Synthetics and Derivatives
   hide: true
   ama: N/A (<a href="https://cesc.io">CESC</a>)
+  youtube_premiere: https://youtu.be/zzaXGqQcRZQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO
+  quiz:
+    name: Quiz 9
+    link: https://forms.gle/nG7XgYHC3XPsw6TFA
+  slides:
+  - name: Synthetics And Derivatives I
+    file: Lecture 9 Slides.pdf
+  - name: Synthetics And Derivatives II
+    file: Lecture 9 Slides Arthur.pdf
+  reading:
+  - name: Exchange-Traded Funds
+    file: Exchange-Traded Funds.pdf
+  - name: The Economics of Central Clearing
+    file: The Economics of Central Clearing.pdf
+  - name: Margin Account Requirements
+    link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
+  - name: US Repo Fact Sheet (2021)
+    file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 11/1
   next: 11/8
   topic: Incentive Design in DeFi
