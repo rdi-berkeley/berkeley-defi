@@ -209,12 +209,20 @@
   ama: Tim Roughgarden
   youtube_premiere: https://www.youtube.com/watch?v=_LjYvQGfxOk
   quiz: 
-    name: No Quiz This Week!
+    name: No Quiz!
     link: http://rdi.berkeley.edu/berkeley-defi/f22
 - date: 11/8
   next: 11/15
   topic: DeFi Security I
   ama: Sam Sun
+  youtube_premiere: https://youtu.be/pJKy5HWuFK8
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
+  quiz:
+    name: Quiz 10
+    link: https://forms.gle/GCtxPpTewg6yPavL6
+  slides:
+  - name: Practical Smart Contract Security
+    file: Lecture 12 Slides.pdf
 - date: 11/15
   next: 11/22
   topic: DeFi Security II
