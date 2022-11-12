@@ -208,6 +208,11 @@
   topic: Incentive Design in DeFi (Guest Lecture)
   ama: Tim Roughgarden
   youtube_premiere: https://www.youtube.com/watch?v=_LjYvQGfxOk
+  slides:
+  - name: Challenges in Cryptoeconomics 
+    file: roughgarden_cesc22.pdf
+  - name: Extension Slides 
+    file: anthony_for_defi_mooc.pdf
   quiz: 
     name: No Quiz!
     link: http://rdi.berkeley.edu/berkeley-defi/f22
