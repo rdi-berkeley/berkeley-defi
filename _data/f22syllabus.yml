@@ -211,7 +211,7 @@
   slides:
   - name: Challenges in Cryptoeconomics 
     file: roughgarden_cesc22.pdf
-  - name: Extension Slides 
+  - name: Extension 
     file: anthony_for_defi_mooc.pdf
   quiz: 
     name: No Quiz!
