@@ -210,7 +210,7 @@
   youtube_premiere: https://www.youtube.com/watch?v=_LjYvQGfxOk
   slides:
   - name: Challenges in Cryptoeconomics 
-    file: roughgarden_cesc22.pdf
+    file: lec-Tim-Roughgarden-incentive-design.pdf
   - name: Extension 
     file: anthony_for_defi_mooc.pdf
   quiz: 
