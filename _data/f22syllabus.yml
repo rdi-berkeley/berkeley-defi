@@ -232,6 +232,25 @@
   next: 11/22
   topic: DeFi Security II
   ama: Stani Kulechov
+  youtube_premiere: https://youtu.be/GIHa2GQJY1k
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9
+  quiz:
+    name: Quiz 11
+    link: https://forms.gle/Rb67H9ZyNaAB2EjbA
+  slides:
+  - name: Smart Contract Security
+    file: Lec 13 Slides.pdf
+  reading:
+  - name: Detecting and Quantifying Wash Trading
+    file: Detecting and Quantifying Wash Trading.pdf
+  - name: Flash Boys
+    file: Flash Boys.pdf
+  - name: High Frequency Trading
+    file: High Frequency Trading.pdf
+  - name: Profit-Generating Transactions
+    file: Profit-Generating Transactions.pdf
+  - name: Quantifying Blockchain Abstractable Value
+    file: Quantifying Blockchain Abstractable Value.pdf
 - date: 11/22
   next: 11/29
   topic: Privacy on the Blockchain
