@@ -255,6 +255,25 @@
 - date: 11/22
   next: 11/29
   topic: Privacy on the Blockchain
+  youtube_premiere: https://youtu.be/H3GmsxRU1Kw
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw
+  quiz:
+    name: Quiz 12
+    link: https://forms.gle/wTRnjWiHFSAYEDgj7
+  slides:
+  - name: Privacy on the Blockchain
+    file: NEW Lecture 10 Slides.pdf
+  reading:
+  - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
+    link: https://cs251.stanford.edu
+  - name: A Fistful of Bitcoins
+    file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
+  - name: Succinct Non-Interactive Arguments
+    file: Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf
+  - name: Tornado Cash Whitepaper
+    file: Tornado Cash Whitepaper.pdf
+  - name: Confidential Transactions
+    link: https://elementsproject.org/features/confidential-transactions/investigation
 - date: 11/29
   next: 12/6
   topic: Decentralized Identities
