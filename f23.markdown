@@ -16,6 +16,8 @@ CS294-177 · CS194-177
 - For general course content related questions, please join our [edstem](https://edstem.org/us/join/32ccPN) and [discord](https://discord.gg/3yFqmRjZDA).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
 
+- If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible.
+
 ## Instructors
 
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
@@ -82,13 +84,14 @@ MFE students: please register for MFE 230T.3.<br> -->
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
+- 1 unit: attend lectures
 - 2 units: attend lectures + do labs + weekly quizzes
 - 3 units: above + complete a class project & project report
 - 4 units: above + class project should include significant implementation
 
 <!-- MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students will all be in the 3-credit version, but MBA/EWMBA students will not be required to complete programming assignments (labs). -->
 
-If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible.
+<!-- If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible. -->
 
 ## Participation
 
