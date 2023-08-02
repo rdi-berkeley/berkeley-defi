@@ -9,7 +9,7 @@ redirect_from:
 
 <center>
 <h2>Fall 2023</h2>
-CS294-177 · CS194-177
+CS194-177 · CS294-177 · EWMBA 237 · MFE 230T
 </center><p></p>
 
 <!-- - [Zoom link](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09) for the synchronous AMAs (password: 557046): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)
