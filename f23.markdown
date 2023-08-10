@@ -147,8 +147,8 @@ The class will have short written homework and hands-on labs. Students enrolling
       <table>
         <tr><td>Participation</td><td>25%</td></tr>
         <tr><td>Quizzes</td><td>25%</td></tr>
-        <tr><td>Assignments</td><td>14%</td></tr>
-        <tr><td>Labs</td><td>36%</td></tr>
+        <tr><td>Assignments</td><td>15%</td></tr>
+        <tr><td>Labs</td><td>35%</td></tr>
       </table>
     </td>
     <td style="vertical-align: top">
