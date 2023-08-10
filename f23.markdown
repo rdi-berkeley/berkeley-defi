@@ -35,7 +35,7 @@ CS194-177 · CS294-177 · EWMBA 237 · MFE 230T
       <!-- <td><a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a></td>
       <td><a href="https://arthurgervais.com/">Arthur Gervais</a></td>
       <td><a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a></td> -->
-      <td>Christine Parlour</td>
+      <td><a href="https://haas.berkeley.edu/faculty/parlour-christine/">Christine Parlour</a></td>
       <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
     </tr>
     <tr>
@@ -84,10 +84,12 @@ MFE students: please register for MFE 230T.3.<br> -->
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
-- 1 unit: attend lectures
-- 2 units: above + do labs + weekly quizzes
-- 3 units: above + complete a class project & project report
-- 4 units: above + class project should include significant implementation
+- 1 unit: attend lectures + article summary
+- 2 units: attend lectures + labs + weekly quizzes
+- 3 units: attend lectures + labs + weekly quizzes + class project
+- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
+
+See the [Grading](#grading) section below for further details.
 
 <!-- MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students will all be in the 3-credit version, but MBA/EWMBA students will not be required to complete programming assignments (labs). -->
 
@@ -127,12 +129,19 @@ Each week, we will have a guest speaker do an "Ask Me Anything" session to answe
 
 ## Grading
 
-The class will have short written homework and hands-on labs. Weekly quizzes will all be of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either one of the lectures -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
 <!-- Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below. -->
 
 <table>
   <tr>
+  <td style="vertical-align: top">
+      <b>1 unit</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>50%</td></tr>
+        <tr><td>Article</td><td>50%</td></tr>
+      </table>
+    </td>
     <td style="vertical-align: top">
       <b>2 units</b><br><br>
       <table>
@@ -171,6 +180,10 @@ The class will have short written homework and hands-on labs. Weekly quizzes wil
     </td>
   </tr>
 </table>
+
+### Summary Article
+
+Students enrolled in 1 unit are expected to submit a summary article of one of the lectures. Alternatively, students that attend The [Future of Decentralization, AI, and Computing Summit](https://rdi.berkeley.edu/events/sbcberkeley) in-person may choose to write an article summarizing a topic learned at the summit.
 
 ### Quizzes
 
