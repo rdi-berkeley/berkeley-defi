@@ -17,6 +17,8 @@ CS194-177 · CS294-177 · EWMBA 237 · MFE 230T
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
 
 - If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible.
+- For general course content related questions, please join our [Edstem](https://edstem.org/us/join/DYcuSw).
+- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span>
 
 ## Instructors
 
@@ -192,7 +194,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 ### Group Project
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. _Groups of 6 students are required. 3-credit and 4-credit students should not be in the same group._
-More detail regarding group formation and logistics will be posted shortly.
+More detail regarding group formation and logistics will be posted when necessary.
 
 <!-- - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
 - **Project Proposal**: After your project idea and logistics are finalized, please fill out [this form](https://forms.gle/Vnmizcn6S8qpCefVA) (Due 10/03). -->
@@ -211,15 +213,15 @@ The proposal should be submitted through [this google form](https://docs.google.
 
 | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
-| Group formation      | 8/30     | 9/12     |
-| Project proposal     | 9/13     | 10/03    |
-| Assignment 1         | 10/04    | 10/10    |
-| Assignment 2         | 10/18    | 10/24    |
-| Project milestone    | 10/25    | 10/30    |
-| Lab 1                | 11/01    | 11/07    |
-| Lab 2                | 11/08    | 11/21    |
-| Project presentation | 11/22    | 12/05    |
-| Project final report | 12/06    | 12/12    |
+| Group formation      | 8/29     | 9/11     |
+| Project proposal     | 9/12     | 10/02    |
+| Assignment 1         | 10/03    | 10/9     |
+| Assignment 2         | 10/17    | 10/23    |
+| Project milestone    | 10/24    | 10/29    |
+| Lab 1                | 10/31    | 11/06    |
+| Lab 2                | 11/07    | 11/20    |
+| Project presentation | 11/21    | 12/04    |
+| Project final report | 12/05    | 12/11    |
 
 ## Course Description
 
