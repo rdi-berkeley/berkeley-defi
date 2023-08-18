@@ -225,8 +225,8 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Project milestone    | 10/31    | 11/06    |
 | Lab 1                | 11/07    | 11/13    |
 | Lab 2                | 11/14    | 11/27    |
-| Project presentation | 11/28    | 12/11    |
-| Project final report | 12/05    | 12/11    |
+| Project presentation | 11/21    | 12/04    |
+| Project final report | 12/21    | 12/04    |
 
 <!-- | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
