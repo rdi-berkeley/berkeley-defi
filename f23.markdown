@@ -58,10 +58,15 @@ Jaiden Fairoze (TA)
 
 ## Meetings
 
-Lectures: Online, Pre-Recorded (Asynchronous)
+<!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
 
-<!-- Guest Speaker AMAs: Tuesday, 10:00 AM - 11:59 AM <br>
-Online ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) or 438 Soda Hall -->
+Synchronous lectures (guest speakers): <br>
+Tuesday, 09:00 AM - 10:59 AM <br>
+Soda 306 or Online
+
+Lecture recordings will be posted shortly after the synchronous lecture.
+
+<!-- ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) -->
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
@@ -213,6 +218,18 @@ The proposal should be submitted through [this google form](https://docs.google.
 
 | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
+| Group formation      | 9/05     | 9/18     |
+| Project proposal     | 9/19     | 10/09    |
+| Assignment 1         | 10/10    | 10/16    |
+| Assignment 2         | 10/24    | 10/10    |
+| Project milestone    | 10/31    | 11/06    |
+| Lab 1                | 11/07    | 11/13    |
+| Lab 2                | 11/14    | 11/27    |
+| Project presentation | 11/28    | 12/11    |
+| Project final report | 12/05    | 12/11    |
+
+<!-- | Assignment           | Released | Deadline |
+| :------------------- | :------- | :------- |
 | Group formation      | 8/29     | 9/11     |
 | Project proposal     | 9/12     | 10/02    |
 | Assignment 1         | 10/03    | 10/9     |
@@ -221,7 +238,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Lab 1                | 10/31    | 11/06    |
 | Lab 2                | 11/07    | 11/20    |
 | Project presentation | 11/21    | 12/04    |
-| Project final report | 12/05    | 12/11    |
+| Project final report | 12/05    | 12/11    | -->
 
 ## Course Description
 
