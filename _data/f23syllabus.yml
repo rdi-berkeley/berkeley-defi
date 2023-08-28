@@ -1,0 +1,24 @@
+- date: 08/22
+  next: 08/29
+  topic: No class
+  quiz:
+    name: None
+  ama: None
+# - date: 08/29
+#   next: 09/05
+#   topic: Introduction and Overview of DeFi
+#   youtube_premiere: https://youtu.be/gX3mc83CJtQ
+#   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+#   slides:
+#     - name: Introduction and Overview of DeFi
+#       file: lec1-dawn-defi-mooc-intro-defi.pdf
+#   reading:
+#     - name: CeFi vs. DeFi
+#       file: arthur-cefi-vs-defi-2106.08157.pdf
+#     - name: DeFi SoK
+#       file: defi-sok-ariah-2101.08778.pdf
+#     - name: Schär, F., 2021
+#       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
+#   quiz:
+#     name: Quiz 1
+#     link: https://forms.gle/Pu3s6FFDq5kfXfcs8

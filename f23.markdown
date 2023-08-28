@@ -99,9 +99,9 @@ See the [Grading](#grading) section below for further details.
 
 Each week, we will have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 10 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. Questions should be posted to Edstem by the Sunday preceding each AMA. If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
 
-<!-- ## Course Syllabus
+## Course Syllabus
 
-<iframe id="syllabus" src="./f22_syllabus" width="100%" height="100" frameborder=0> </iframe> -->
+<iframe id="syllabus" src="./f23_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <!--
 ## Fireside chat series: the Future of DeFi
