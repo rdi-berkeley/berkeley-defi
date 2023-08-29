@@ -52,9 +52,9 @@ Jaiden Fairoze (TA), Matthew Fogel (Reader)
 <!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
 
 Synchronous lectures: <br>
-Tuesday, 10:00 AM - 11:00 AM <br>
-Soda 306 or Online
-
+**Tuesday, 10:00 AM - 11:00 AM** <br>
+**Soda 306 or Online** <br>
+Note: the class is assigned the 9am to 11am slot, but we will only use the second hour.
 Lecture recordings will be posted shortly after the synchronous lecture.
 
 <!-- ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) -->
