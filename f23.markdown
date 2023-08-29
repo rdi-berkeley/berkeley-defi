@@ -97,7 +97,10 @@ See the [Grading](#grading) section below for further details.
 
 ## Participation
 
-Each week, we will have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 10 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. Questions should be posted to Edstem by the Sunday preceding each AMA. If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
+<!-- If we have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 10 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. Questions should be posted to Edstem by the Sunday preceding each AMA.  -->
+
+We expect students to attend the live lectures in-person. If there is a guest lecture, we encourage students to ask questions. Participation will be measured by lecture attendance.
+If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
 
 ## Course Syllabus
 
