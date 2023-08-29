@@ -181,7 +181,16 @@ The class will have short written homework and hands-on labs. Students enrolling
 
 ### Summary Article
 
-Students enrolled in 1 unit are expected to submit a summary article of one of the lectures. Alternatively, students that attend The [Future of Decentralization, AI, and Computing Summit](https://rdi.berkeley.edu/events/sbcberkeley) in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option.
+Students enrolled in 1 unit are expected to submit a 500-word summary article of one of the lectures. Alternatively, students that attend The [Future of Decentralization, AI, and Computing Summit](https://rdi.berkeley.edu/events/sbcberkeley) in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option if the article is publicly accessible.
+
+The article’s marking criteria can be found below:
+
+- Understanding (3 marks): displays breadth/depth of understanding of the topic.
+- Importance (2 marks): content conveys an important aspect of the topic's impact.
+- Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
+- References (2 marks): cites the relevant lecture and reference material such as research papers properly.
+
+Students who wish to choose the summit option may fill out this [submission form](https://forms.gle/qH5grBy39f8TE2zAA) before Sep 8.
 
 ### Quizzes
 
