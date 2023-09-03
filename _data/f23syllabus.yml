@@ -4,21 +4,57 @@
   quiz:
     name: None
   ama: None
-# - date: 08/29
-#   next: 09/05
-#   topic: Introduction and Overview of DeFi
-#   youtube_premiere: https://youtu.be/gX3mc83CJtQ
-#   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
-#   slides:
-#     - name: Introduction and Overview of DeFi
-#       file: lec1-dawn-defi-mooc-intro-defi.pdf
-#   reading:
-#     - name: CeFi vs. DeFi
-#       file: arthur-cefi-vs-defi-2106.08157.pdf
-#     - name: DeFi SoK
-#       file: defi-sok-ariah-2101.08778.pdf
-#     - name: Schär, F., 2021
-#       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
-#   quiz:
-#     name: Quiz 1
-#     link: https://forms.gle/Pu3s6FFDq5kfXfcs8
+- date: 08/29
+  next: 09/05
+  topic: Introduction and Overview of DeFi
+  youtube_premiere: https://youtu.be/gX3mc83CJtQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  slides:
+    - name: Introduction and Overview of DeFi
+      file: lec1-dawn-defi-mooc-intro-defi.pdf
+  # reading:
+  #   - name: CeFi vs. DeFi
+  #     file: arthur-cefi-vs-defi-2106.08157.pdf
+  #   - name: DeFi SoK
+  #     file: defi-sok-ariah-2101.08778.pdf
+  #   - name: Schär, F., 2021
+  #     file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
+  quiz:
+    name: Quiz 1
+    link: https://forms.gle/x7m5M3faw8sBKkyVA
+- date: 09/05
+  next: 09/12
+  topic: Introduction to Blockchain Technology
+- date: 09/12
+  next: 09/19
+  topic: Introduction to Traditional Finance
+- date: 09/19
+  next: 09/26
+  topic: Introduction to Smart Contracts
+- date: 09/26
+  next: 10/03
+  topic: DEX
+- date: 10/03
+  next: 10/10
+  topic: Decentralized Lending
+- date: 10/10
+  next: 10/17
+  topic: Stablecoins
+- date: 10/17
+  next: 10/24
+  topic: Oracles
+- date: 10/24
+  next: 10/31
+  topic: Synthetics and Derivatives
+- date: 10/31
+  next: 11/07
+  topic: DeFi Security I
+- date: 11/07
+  next: 11/14
+  topic: DeFi Security II
+- date: 11/14
+  next: 11/21
+  topic: Privacy on the Blockchain
+- date: 11/21
+  next: 11/28
+  topic: Decentralized Identities
