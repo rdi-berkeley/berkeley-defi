@@ -139,8 +139,9 @@ The class will have short written homework and hands-on labs. Students enrolling
   <td style="vertical-align: top">
       <b>1 unit</b><br><br>
       <table>
-        <tr><td>Participation</td><td>50%</td></tr>
-        <tr><td>Article</td><td>50%</td></tr>
+        <tr><td>Quiz</td><td>50%</td></tr>
+        <tr><td>Participation</td><td>25%</td></tr>
+        <tr><td>Article</td><td>25%</td></tr>
       </table>
     </td>
     <td style="vertical-align: top">
