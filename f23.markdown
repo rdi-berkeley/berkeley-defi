@@ -130,7 +130,7 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Grading
 
-The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the [Future of Decentralization, AI, and Computing Summit](https://rdi.berkeley.edu/events/sbcberkeley) -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on completion). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the [Future of Decentralization, AI, and Computing Summit](https://rdi.berkeley.edu/events/sbcberkeley) -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
 <!-- Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below. -->
 
@@ -198,7 +198,7 @@ Students who wish to choose the summit option may fill out this [submission form
 
 ### Quizzes
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week -- they will be graded on correctness. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group Project
 
