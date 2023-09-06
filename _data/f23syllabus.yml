@@ -9,6 +9,7 @@
   topic: Introduction and Overview of DeFi
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  recording: https://drive.google.com/file/d/1H8CMyHpj4x68dcQaTKY3l8mlSuGjBlRO/view?usp=sharing
   slides:
     - name: Introduction and Overview of DeFi
       file: lec1-dawn-defi-mooc-intro-defi.pdf
@@ -19,7 +20,6 @@
       file: arthur-cefi-vs-defi-2106.08157.pdf
     - name: Schär, F., 2021
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
-  recording: https://drive.google.com/file/d/1H8CMyHpj4x68dcQaTKY3l8mlSuGjBlRO/view?usp=sharing
   quiz:
     name: Quiz 1
     link: https://forms.gle/x7m5M3faw8sBKkyVA
