@@ -84,7 +84,7 @@ MFE students: please register for MFE 230T.3.<br> -->
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
-- 1 unit: attend lectures + article summary
+- 1 unit: attend lectures + weekly quizzes + article summary
 - 2 units: attend lectures + labs + weekly quizzes
 - 3 units: attend lectures + labs + weekly quizzes + class project
 - 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
