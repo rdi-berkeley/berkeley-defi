@@ -11,7 +11,7 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
   slides:
     - name: Introduction and Overview of DeFi
-      file: lec1-dawn-intro-defi-f23.pdf
+      file: lec1-a.pdf
     - name: FinTech or Automated Finance
       file: fintech-or-automated-finance.pdf
   reading:
