@@ -7,8 +7,10 @@
 - date: 08/29
   next: 09/05
   topic: Introduction and Overview of DeFi
+  ama: Dawn/Christine Class Overview
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  recording: https://drive.google.com/file/d/1H8CMyHpj4x68dcQaTKY3l8mlSuGjBlRO/view?usp=sharing
   slides:
     - name: Introduction and Overview of DeFi
       file: lec1-a.pdf
@@ -27,6 +29,22 @@
 - date: 09/05
   next: 09/12
   topic: Introduction to Blockchain Technology
+  youtube_premiere: https://www.youtube.com/watch?v=FmKbGHu7oAM
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31
+  reading:
+  - name: Lightning Network
+    file: lightning-network-paper.pdf
+  - name: Multi-Path Routing
+    file: 1910.01834.pdf
+  - name: Rollup
+    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+  - name: Bridges
+    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Bitcoin Whitepaper
+    file: bitcoin.pdf
+  quiz:
+    name: Quiz 2
+    link: https://www.gradescope.com/courses/608404/assignments/3267971
 - date: 09/12
   next: 09/19
   topic: Introduction to Traditional Finance
