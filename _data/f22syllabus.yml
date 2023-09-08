@@ -3,7 +3,7 @@
   topic: Introduction and Overview of DeFi
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
-  slides: 
+  slides:
     - name: Introduction and Overview of DeFi
       file: lec1-dawn-defi-mooc-intro-defi.pdf
   reading:
@@ -15,31 +15,29 @@
       file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
   quiz:
     name: Quiz 1
-    link: https://forms.gle/Pu3s6FFDq5kfXfcs8
   ama: Dawn Song
 - date: 09/06
   next: 09/13
   topic: Introduction to Blockchain Technology
   ama: Dan Boneh
   youtube_premiere: https://www.youtube.com/watch?v=FmKbGHu7oAM
-  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31 
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31
   quiz:
     name: Quiz 2
-    link: https://forms.gle/KnZgwJhNhVLHtggw8
   slides:
-  - name: Introduction to Blockchain Technology
-    file: lec2-dan-tech-intro.pdf
+    - name: Introduction to Blockchain Technology
+      file: lec2-dan-tech-intro.pdf
   reading:
-  - name: Lightning Network
-    file: lightning-network-paper.pdf
-  - name: Multi-Path Routing
-    file: 1910.01834.pdf
-  - name: Rollup
-    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
-  - name: Bridges
-    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
-  - name: Bitcoin Whitepaper
-    file: bitcoin.pdf 
+    - name: Lightning Network
+      file: lightning-network-paper.pdf
+    - name: Multi-Path Routing
+      file: 1910.01834.pdf
+    - name: Rollup
+      link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+    - name: Bridges
+      link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/
+    - name: Bitcoin Whitepaper
+      file: bitcoin.pdf
 - date: 09/13
   next: 09/20
   topic: Introduction to Traditional Finance
@@ -47,21 +45,20 @@
   youtube_premiere: https://youtu.be/hux0B-wBCwU
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
   recording: https://www.youtube.com/watch?v=eVg8zAJoCxc
-  quiz: 
+  quiz:
     name: Quiz 3
-    link: https://forms.gle/FdvD4qvD3zLnDG1m9
   slides:
-  - name: Introduction to Traditional Finance
-    file: Lecture 4 Slides.pdf
+    - name: Introduction to Traditional Finance
+      file: Lecture 4 Slides.pdf
   reading:
-  - name: Money in the Modern Economy
-    file: money-in-the-modern-economy-an-introduction.pdf
-  - name: Money Creation in the Modern Economy
-    file: money-creation-in-the-modern-economy.pdf
-  - name: Measuring Trade Execution Costs in Financial Markets
-    file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
-  - name: Market Microstructure
-    file: Biais_Glosten_spatt.pdf
+    - name: Money in the Modern Economy
+      file: money-in-the-modern-economy-an-introduction.pdf
+    - name: Money Creation in the Modern Economy
+      file: money-creation-in-the-modern-economy.pdf
+    - name: Measuring Trade Execution Costs in Financial Markets
+      file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
+    - name: Market Microstructure
+      file: Biais_Glosten_spatt.pdf
 - date: 09/20
   next: 09/27
   topic: Introduction to Smart Contracts
@@ -69,21 +66,20 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE
   quiz:
     name: Quiz 4
-    link: https://forms.gle/nn1jnBaYzSAcRvV4A
   slides:
-  - name: Introduction to Smart Contracts
-    file: Lecture 3 Slides.pdf
-  - name: Cryptocurrency and Privacy Law
-    file: Cryptocurrency-and-Privacy-Law.pdf
+    - name: Introduction to Smart Contracts
+      file: Lecture 3 Slides.pdf
+    - name: Cryptocurrency and Privacy Law
+      file: Cryptocurrency-and-Privacy-Law.pdf
   reading:
-  - name: Formalizing and Securing Relationships on Public Networks
-    link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
-  - name: Ethereum Whitepaper
-    link: https://ethereum.org/en/whitepaper/
-  - name: Introduction to Smart Contracts (Solidity Documentation)
-    link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
-  - name: Solidity by Example
-    link: https://solidity-by-example.org/ 
+    - name: Formalizing and Securing Relationships on Public Networks
+      link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
+    - name: Ethereum Whitepaper
+      link: https://ethereum.org/en/whitepaper/
+    - name: Introduction to Smart Contracts (Solidity Documentation)
+      link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
+    - name: Solidity by Example
+      link: https://solidity-by-example.org/
   ama: Peter Van Valkenburgh – “Current Topics in Crypto Regulation”
   recording: https://youtu.be/OO_mar88bb8
 - date: 09/27
@@ -93,23 +89,22 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
   quiz:
     name: Quiz 5
-    link: https://forms.gle/umN8nhTWv646GmKJ6
   slides:
-  - name: DEX
-    file: Updated Lecture 5 Slides.pdf
-  - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
-    file: Dan Robinson Lecture Slides.pdf
+    - name: DEX
+      file: Updated Lecture 5 Slides.pdf
+    - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
+      file: Dan Robinson Lecture Slides.pdf
   reading:
-  - name: Analysis of Uniswap Markets
-    file: Analysis of Uniswap Markets.pdf
-  - name: DEX with AMM Protocols
-    file: DEX with AMM Protocols.pdf
-  - name: StableSwap
-    file: StableSwap.pdf
-  - name: Theory of AMM in DeFi
-    file: Theory of AMM in DeFi.pdf
-  - name: Uniswap v3 Core Whitepaper
-    file: Uniswap v3 Core.pdf
+    - name: Analysis of Uniswap Markets
+      file: Analysis of Uniswap Markets.pdf
+    - name: DEX with AMM Protocols
+      file: DEX with AMM Protocols.pdf
+    - name: StableSwap
+      file: StableSwap.pdf
+    - name: Theory of AMM in DeFi
+      file: Theory of AMM in DeFi.pdf
+    - name: Uniswap v3 Core Whitepaper
+      file: Uniswap v3 Core.pdf
   ama: Dan Robinson
   recording: https://youtu.be/Lz7g0ny99jk
 - date: 10/04
@@ -121,21 +116,20 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
   quiz:
     name: Quiz 6
-    link: https://forms.gle/6SqU4y9T2MHkFmjL9
   slides:
-  - name: Decentralized Lending
-    file: Lecture 6 Slides.pdf
+    - name: Decentralized Lending
+      file: Lecture 6 Slides.pdf
   reading:
-  - name: A Study of DeFi Liquidations
-    file: A Study of DeFi Liquidations.pdf
-  - name: Attacking DeFi with Flash Loans
-    file: Attacking DeFi With Flash Loans.pdf
-  - name: DeFi Protocols for Loanable Funds
-    file: DeFi Protocols for Loanable Funds.pdf
-  - name: Liquidations
-    file: Liquidations.pdf
-  - name: The Decentralized Financial Crisis
-    file: The Decentralized Financial Crisis.pdf
+    - name: A Study of DeFi Liquidations
+      file: A Study of DeFi Liquidations.pdf
+    - name: Attacking DeFi with Flash Loans
+      file: Attacking DeFi With Flash Loans.pdf
+    - name: DeFi Protocols for Loanable Funds
+      file: DeFi Protocols for Loanable Funds.pdf
+    - name: Liquidations
+      file: Liquidations.pdf
+    - name: The Decentralized Financial Crisis
+      file: The Decentralized Financial Crisis.pdf
 - date: 10/11
   next: 10/18
   topic: Stablecoins
@@ -144,21 +138,20 @@
   youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
   quiz:
     name: Quiz 7
-    link: https://forms.gle/FcPeWCWap2qbqh8s6
   slides:
-  - name: Stablecoins I
-    file: Lecture 7 Introduction Slides.pdf
+    - name: Stablecoins I
+      file: Lecture 7 Introduction Slides.pdf
   reading:
-  - name: (In)Stability for the Blockchain
-    file: (In)Stability for the Blockchain.pdf
-  - name: Stablecoins 2.0
-    file: Stablecoins 2.0 .pdf
-  - name: Search for Stability in Crypto Assets
-    file: Search for Stability in Crypto Assets.pdf
-  - name: While Stability Lasts
-    file: While Stability Lasts.pdf
-  - name: Unique Equilibrium in Currency Attacks
-    file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
+    - name: (In)Stability for the Blockchain
+      file: (In)Stability for the Blockchain.pdf
+    - name: Stablecoins 2.0
+      file: Stablecoins 2.0 .pdf
+    - name: Search for Stability in Crypto Assets
+      file: Search for Stability in Crypto Assets.pdf
+    - name: While Stability Lasts
+      file: While Stability Lasts.pdf
+    - name: Unique Equilibrium in Currency Attacks
+      file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 10/18
   next: 10/25
   topic: Oracles
@@ -168,17 +161,16 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoo70DT2YsBmNUol4134S9C9
   quiz:
     name: Quiz 8
-    link: https://forms.gle/K6yVXGjXDKeLJbZLA
   slides:
-  - name: Oracles
-    file: COMPRESSED Oracle Lecture—DeFi course.pdf
+    - name: Oracles
+      file: COMPRESSED Oracle Lecture—DeFi course.pdf
   reading:
-  - name: An Authenticated Data Feed for Smart Contracts
-    file: An Authenticated Data Feed for Smart Contracts.pdf
-  - name: Chainlink 2.0
-    file: Chainlink 2.0.pdf
-  - name: Liberating Web Data Using Decentralized Oracles
-    file: Liberating Web Data Using Decentralized Oracles.pdf
+    - name: An Authenticated Data Feed for Smart Contracts
+      file: An Authenticated Data Feed for Smart Contracts.pdf
+    - name: Chainlink 2.0
+      file: Chainlink 2.0.pdf
+    - name: Liberating Web Data Using Decentralized Oracles
+      file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/25
   next: 11/1
   topic: Synthetics and Derivatives
@@ -188,32 +180,31 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO
   quiz:
     name: Quiz 9
-    link: https://forms.gle/nG7XgYHC3XPsw6TFA
   slides:
-  - name: Synthetics And Derivatives I
-    file: Lecture 9 Slides.pdf
-  - name: Synthetics And Derivatives II
-    file: Lecture 9 Slides Arthur.pdf
+    - name: Synthetics And Derivatives I
+      file: Lecture 9 Slides.pdf
+    - name: Synthetics And Derivatives II
+      file: Lecture 9 Slides Arthur.pdf
   reading:
-  - name: Exchange-Traded Funds
-    file: Exchange-Traded Funds.pdf
-  - name: The Economics of Central Clearing
-    file: The Economics of Central Clearing.pdf
-  - name: Margin Account Requirements
-    link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
-  - name: US Repo Fact Sheet (2021)
-    file: 2021-US-Repo-Fact-Sheet.pdf
+    - name: Exchange-Traded Funds
+      file: Exchange-Traded Funds.pdf
+    - name: The Economics of Central Clearing
+      file: The Economics of Central Clearing.pdf
+    - name: Margin Account Requirements
+      link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
+    - name: US Repo Fact Sheet (2021)
+      file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 11/1
   next: 11/8
   topic: Incentive Design in DeFi (Guest Lecture)
   ama: Tim Roughgarden
   youtube_premiere: https://www.youtube.com/watch?v=_LjYvQGfxOk
   slides:
-  - name: Challenges in Cryptoeconomics 
-    file: lec-Tim-Roughgarden-incentive-design.pdf
-  - name: Extension 
-    file: lec-Tim-Roughgarden-incentive-design-extension.pdf
-  quiz: 
+    - name: Challenges in Cryptoeconomics
+      file: lec-Tim-Roughgarden-incentive-design.pdf
+    - name: Extension
+      file: lec-Tim-Roughgarden-incentive-design-extension.pdf
+  quiz:
     name: No Quiz!
     link: http://rdi.berkeley.edu/berkeley-defi/f22
 - date: 11/8
@@ -225,10 +216,9 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
   quiz:
     name: Quiz 10
-    link: https://forms.gle/GCtxPpTewg6yPavL6
   slides:
-  - name: Practical Smart Contract Security
-    file: Lecture 12 Slides.pdf
+    - name: Practical Smart Contract Security
+      file: Lecture 12 Slides.pdf
 - date: 11/15
   next: 11/22
   topic: DeFi Security II
@@ -238,21 +228,20 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9
   quiz:
     name: Quiz 11
-    link: https://forms.gle/Rb67H9ZyNaAB2EjbA
   slides:
-  - name: Smart Contract Security
-    file: Lec 13 Slides.pdf
+    - name: Smart Contract Security
+      file: Lec 13 Slides.pdf
   reading:
-  - name: Detecting and Quantifying Wash Trading
-    file: Detecting and Quantifying Wash Trading.pdf
-  - name: Flash Boys
-    file: Flash Boys.pdf
-  - name: High Frequency Trading
-    file: High Frequency Trading.pdf
-  - name: Profit-Generating Transactions
-    file: Profit-Generating Transactions.pdf
-  - name: Quantifying Blockchain Abstractable Value
-    file: Quantifying Blockchain Abstractable Value.pdf
+    - name: Detecting and Quantifying Wash Trading
+      file: Detecting and Quantifying Wash Trading.pdf
+    - name: Flash Boys
+      file: Flash Boys.pdf
+    - name: High Frequency Trading
+      file: High Frequency Trading.pdf
+    - name: Profit-Generating Transactions
+      file: Profit-Generating Transactions.pdf
+    - name: Quantifying Blockchain Abstractable Value
+      file: Quantifying Blockchain Abstractable Value.pdf
 - date: 11/22
   next: 11/29
   ama: N/A
@@ -261,21 +250,20 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw
   quiz:
     name: Quiz 12
-    link: https://forms.gle/wTRnjWiHFSAYEDgj7
   slides:
-  - name: Privacy on the Blockchain
-    file: NEW Lecture 10 Slides.pdf
+    - name: Privacy on the Blockchain
+      file: NEW Lecture 10 Slides.pdf
   reading:
-  - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
-    link: https://cs251.stanford.edu
-  - name: A Fistful of Bitcoins
-    file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
-  - name: Succinct Non-Interactive Arguments
-    file: Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf
-  - name: Tornado Cash Whitepaper
-    file: Tornado Cash Whitepaper.pdf
-  - name: Confidential Transactions
-    link: https://elementsproject.org/features/confidential-transactions/investigation
+    - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
+      link: https://cs251.stanford.edu
+    - name: A Fistful of Bitcoins
+      file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
+    - name: Succinct Non-Interactive Arguments
+      file: Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf
+    - name: Tornado Cash Whitepaper
+      file: Tornado Cash Whitepaper.pdf
+    - name: Confidential Transactions
+      link: https://elementsproject.org/features/confidential-transactions/investigation
 - date: 11/29
   next: 12/6
   ama: N/A
@@ -284,21 +272,20 @@
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
   quiz:
     name: Quiz 13
-    link: https://forms.gle/G2mh17U6XAUbRVnw8
   slides:
-  - name: Decentralized Identities
-    file: Defi MOOC - Decentralized Identity.pptx.pdf
+    - name: Decentralized Identities
+      file: Defi MOOC - Decentralized Identity.pptx.pdf
   reading:
-  - name: Proof of Person
-    file: Proof of Person.pdf
-  - name: CanDID
-    file: CanDID.pdf
-  - name: IPFS
-    file: IPFS.pdf
-  - name: Axioms of Web Architecture
-    link: https://www.w3.org/DesignIssues/Axioms.html#uri
-  - name: Quadratic Payments
-    link: https://vitalik.ca/general/2019/12/07/quadratic.html
+    - name: Proof of Person
+      file: Proof of Person.pdf
+    - name: CanDID
+      file: CanDID.pdf
+    - name: IPFS
+      file: IPFS.pdf
+    - name: Axioms of Web Architecture
+      link: https://www.w3.org/DesignIssues/Axioms.html#uri
+    - name: Quadratic Payments
+      link: https://vitalik.ca/general/2019/12/07/quadratic.html
 - date: 12/6
   topic: Regulatory Issues in DeFi (Optional Lecture)
   youtube_premiere: https://youtu.be/JiOnheyxA6E
