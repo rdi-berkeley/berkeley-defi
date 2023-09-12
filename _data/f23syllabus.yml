@@ -49,6 +49,23 @@
 - date: 09/12
   next: 09/19
   topic: Introduction to Traditional Finance
+  youtube_premiere: https://youtu.be/hux0B-wBCwU
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
+  slides:
+  - name: Introduction to Traditional Finance
+    file: Lecture 4 Slides.pdf
+  reading:
+  - name: Money in the Modern Economy
+    file: money-in-the-modern-economy-an-introduction.pdf
+  - name: Money Creation in the Modern Economy
+    file: money-creation-in-the-modern-economy.pdf
+  - name: Measuring Trade Execution Costs in Financial Markets
+    file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
+  - name: Market Microstructure
+    file: Biais_Glosten_spatt.pdf
+  quiz:
+    name: Quiz 3
+    link: https://www.gradescope.com/courses/608404
 - date: 09/19
   next: 09/26
   topic: Introduction to Smart Contracts
