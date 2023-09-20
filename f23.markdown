@@ -223,7 +223,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
 | Group formation      | 9/05     | 9/18     |
-| (Project proposal)[https://www.gradescope.com/courses/608404/assignments/3367512/]     | 9/19     | 10/09    |
+| [Project proposal](https://www.gradescope.com/courses/608404/assignments/3367512/)     | 9/19     | 10/09    |
 | Assignment 1         | 10/10    | 10/16    |
 | Assignment 2         | 10/24    | 10/30    |
 | Project milestone    | 10/31    | 11/06    |
