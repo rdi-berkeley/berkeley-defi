@@ -94,6 +94,27 @@
 - date: 09/26
   next: 10/03
   topic: DEX
+  youtube_premiere: https://youtu.be/pRO5YW5qb-k
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
+  quiz:
+    name: Quiz 5
+    link: https://www.gradescope.com/courses/608404/assignments/3424682
+  slides:
+    - name: DEX
+      file: Updated Lecture 5 Slides.pdf
+    - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
+      file: Dan Robinson Lecture Slides.pdf
+  reading:
+    - name: Analysis of Uniswap Markets
+      file: Analysis of Uniswap Markets.pdf
+    - name: DEX with AMM Protocols
+      file: DEX with AMM Protocols.pdf
+    - name: StableSwap
+      file: StableSwap.pdf
+    - name: Theory of AMM in DeFi
+      file: Theory of AMM in DeFi.pdf
+    - name: Uniswap v3 Core Whitepaper
+      file: Uniswap v3 Core.pdf
   ama: "Christine: Tokenization of Real World Assets"
 - date: 10/03
   next: 10/10
