@@ -16,6 +16,8 @@
       file: lec1-a.pdf
     - name: FinTech or Automated Finance
       file: fintech-or-automated-finance.pdf
+    - name: "Christine's Live Lecture Slides"
+      file: Intro23.pptx
   reading:
     - name: CeFi vs. DeFi
       file: arthur-cefi-vs-defi-2106.08157.pdf
@@ -54,6 +56,8 @@
   slides:
   - name: Introduction to Traditional Finance
     file: Lecture 4 Slides.pdf
+  - name: "Christine's Live Lecture Slides"
+    file: Multi_platforms23.pptx
   reading:
   - name: Money in the Modern Economy
     file: money-in-the-modern-economy-an-introduction.pdf
@@ -104,6 +108,8 @@
       file: Updated Lecture 5 Slides.pdf
     - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
       file: Dan Robinson Lecture Slides.pdf
+    - name: "Christine's Live Lecture Slides"
+      file: Token_RWA.pptx
   reading:
     - name: Analysis of Uniswap Markets
       file: Analysis of Uniswap Markets.pdf
@@ -116,12 +122,34 @@
     - name: Uniswap v3 Core Whitepaper
       file: Uniswap v3 Core.pdf
   ama: "Christine: Tokenization of Real World Assets"
+  recording: https://drive.google.com/file/d/1JyjF_MuOKE5WBMqAd34j4H4yDZFE2d-l/view?usp=sharing
 - date: 10/03
   next: 10/10
   topic: Decentralized Lending
+  youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
+  quiz:
+    name: Quiz 6
+    link: https://www.gradescope.com/courses/608404/assignments/3466896
+  slides:
+    - name: Decentralized Lending
+      file: Lecture 6 Slides.pdf
+  reading:
+    - name: A Study of DeFi Liquidations
+      file: A Study of DeFi Liquidations.pdf
+    - name: Attacking DeFi with Flash Loans
+      file: Attacking DeFi With Flash Loans.pdf
+    - name: DeFi Protocols for Loanable Funds
+      file: DeFi Protocols for Loanable Funds.pdf
+    - name: Liquidations
+      file: Liquidations.pdf
+    - name: The Decentralized Financial Crisis
+      file: The Decentralized Financial Crisis.pdf
+  ama: None
 - date: 10/10
   next: 10/17
   topic: Stablecoins
+  ama: Arthur Gervais
 - date: 10/17
   next: 10/24
   topic: Oracles
