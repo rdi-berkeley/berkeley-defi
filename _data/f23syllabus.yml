@@ -16,6 +16,8 @@
       file: lec1-a.pdf
     - name: FinTech or Automated Finance
       file: fintech-or-automated-finance.pdf
+    - name: "Christine's Live Lecture Slides"
+      file: Intro23.pptx
   reading:
     - name: CeFi vs. DeFi
       file: arthur-cefi-vs-defi-2106.08157.pdf
@@ -54,6 +56,8 @@
   slides:
   - name: Introduction to Traditional Finance
     file: Lecture 4 Slides.pdf
+  - name: "Christine's Live Lecture Slides"
+    file: Multi_platforms23.pptx
   reading:
   - name: Money in the Modern Economy
     file: money-in-the-modern-economy-an-introduction.pdf
@@ -104,6 +108,8 @@
       file: Updated Lecture 5 Slides.pdf
     - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
       file: Dan Robinson Lecture Slides.pdf
+    - name: "Christine's Live Lecture Slides"
+      file: Token_RWA.pptx
   reading:
     - name: Analysis of Uniswap Markets
       file: Analysis of Uniswap Markets.pdf
@@ -143,6 +149,7 @@
 - date: 10/10
   next: 10/17
   topic: Stablecoins
+  ama: Arthur Gervais
 - date: 10/17
   next: 10/24
   topic: Oracles
