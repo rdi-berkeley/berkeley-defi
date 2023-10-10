@@ -149,10 +149,29 @@
 - date: 10/10
   next: 10/17
   topic: Stablecoins
+  youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
+  quiz:
+    name: Quiz 7
+    link: https://www.gradescope.com/courses/608404/assignments/3499059
+  slides:
+    - name: Stablecoins I
+      file: Lecture 7 Introduction Slides.pdf
+  reading:
+    - name: (In)Stability for the Blockchain
+      file: (In)Stability for the Blockchain.pdf
+    - name: Stablecoins 2.0
+      file: Stablecoins 2.0 .pdf
+    - name: Search for Stability in Crypto Assets
+      file: Search for Stability in Crypto Assets.pdf
+    - name: While Stability Lasts
+      file: While Stability Lasts.pdf
+    - name: Unique Equilibrium in Currency Attacks
+      file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
   ama: Arthur Gervais
 - date: 10/17
   next: 10/24
   topic: Oracles
+  ama: None
 - date: 10/24
   next: 10/31
   topic: Synthetics and Derivatives
