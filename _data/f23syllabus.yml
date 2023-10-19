@@ -156,6 +156,8 @@
   slides:
     - name: Stablecoins I
       file: Lecture 7 Introduction Slides.pdf
+    - name: Live Lecture Slides
+      file: Arthur_Gervais_Live_Lecture_Slides.pptx
   reading:
     - name: (In)Stability for the Blockchain
       file: (In)Stability for the Blockchain.pdf
@@ -168,13 +170,30 @@
     - name: Unique Equilibrium in Currency Attacks
       file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
   ama: Arthur Gervais
+  recording: https://drive.google.com/file/d/1GEyU8goaF6TfETmGebFwUaQCfUdsdRz0/view?usp=sharing
 - date: 10/17
   next: 10/24
   topic: Oracles
+  quiz:
+    name: Quiz 8
+    link: https://www.gradescope.com/courses/608404/assignments/3550935
+  youtube_premiere: https://youtu.be/vFcW18ZpPZ4
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoo70DT2YsBmNUol4134S9C9
   ama: None
+  slides:
+    - name: Oracles
+      file: COMPRESSED Oracle Lecture—DeFi course.pdf
+  reading:
+    - name: An Authenticated Data Feed for Smart Contracts
+      file: An Authenticated Data Feed for Smart Contracts.pdf
+    - name: Chainlink 2.0
+      file: Chainlink 2.0.pdf
+    - name: Liberating Web Data Using Decentralized Oracles
+      file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/24
   next: 10/31
   topic: Synthetics and Derivatives
+  ama: None
 - date: 10/31
   next: 11/07
   topic: DeFi Security I
