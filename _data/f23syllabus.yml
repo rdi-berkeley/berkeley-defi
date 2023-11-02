@@ -216,10 +216,19 @@
 - date: 10/31
   next: 11/07
   topic: DeFi Security I
+  youtube_premiere: https://youtu.be/pJKy5HWuFK8
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
   ama: Dan Robinson (Uniswap)
+  quiz:
+    name: Quiz 10
+    link: https://www.gradescope.com/courses/608404/assignments/3622692
+  slides:
+    - name: Practical Smart Contract Security
+      file: Lecture 12 Slides.pdf
 - date: 11/07
   next: 11/14
   topic: DeFi Security II
+  ama: "Christine: A primer on Payments and Payment Technology"
 - date: 11/14
   next: 11/21
   topic: Privacy on the Blockchain
