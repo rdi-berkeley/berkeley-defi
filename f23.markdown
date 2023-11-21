@@ -226,9 +226,9 @@ The proposal should be submitted through [this google form](https://docs.google.
 | [Assignment 2](https://www.gradescope.com/courses/608404/assignments/3511478)         | 10/24    | 10/30    |
 | [Project milestone](https://www.gradescope.com/courses/608404/assignments/3548221/)    | 10/31    | 11/06    |
 | [Lab 1](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/07    | 11/13    |
-| Lab 2                | 11/14    | 11/27    |
-| Project presentation | 11/21    | 12/04    |
-| Project final report | 12/21    | 12/04    |
+| [Lab 2](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/14    | 11/27    |
+| [Project presentation](https://edstem.org/us/courses/41944/discussion/3910164) | 11/21    | 12/04    |
+| [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    |
 
 <!-- | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
@@ -240,7 +240,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Lab 1                | 10/31    | 11/06    |
 | Lab 2                | 11/07    | 11/20    |
 | Project presentation | 11/21    | 12/04    |
-| Project final report | 12/05    | 12/11    | -->
+| Project final report | 11/21    | 12/11    | -->
 
 ## Course Description
 
