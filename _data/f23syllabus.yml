@@ -275,3 +275,23 @@
 - date: 11/21
   next: 11/28
   topic: Decentralized Identities
+  youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
+  ama: None
+  quiz:
+    name: Quiz 13
+    link: https://www.gradescope.com/courses/608404/assignments/3718266
+  slides:
+    - name: Decentralized Identities
+      file: Defi MOOC - Decentralized Identity.pptx.pdf
+  reading:
+    - name: Proof of Person
+      file: Proof of Person.pdf
+    - name: CanDID
+      file: CanDID.pdf
+    - name: IPFS
+      file: IPFS.pdf
+    - name: Axioms of Web Architecture
+      link: https://www.w3.org/DesignIssues/Axioms.html#uri
+    - name: Quadratic Payments
+      link: https://vitalik.ca/general/2019/12/07/quadratic.html
