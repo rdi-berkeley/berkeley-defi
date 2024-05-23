@@ -128,7 +128,7 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Grading
 
-The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 25%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
 <!-- Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below. -->
 
@@ -183,7 +183,7 @@ The class will have short written homework and hands-on labs. Students enrolling
 
 ### Summary Article
 
-Students enrolled in 1 unit are expected to submit a 500-word summary article of one of the lectures. Alternatively, students that attend The <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 25%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option if the article is publicly accessible.
+Students enrolled in 1 unit are expected to submit a 500-word summary article of one of the lectures. Alternatively, students that attend The <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option if the article is publicly accessible.
 
 The article’s marking criteria can be found below:
 
@@ -192,7 +192,7 @@ The article’s marking criteria can be found below:
 - Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
 - References (2 marks): cites the relevant lecture and reference material such as research papers properly.
 
-Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 25%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8.
+Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8.
 
 ### Quizzes
 
