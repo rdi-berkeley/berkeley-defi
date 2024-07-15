@@ -3,8 +3,6 @@ layout: default
 title: "Decentralized Finance"
 subtitle: "Fall 2024"
 permalink: /f24
-redirect_from:
-  - /
 ---
 
 <center>
@@ -59,9 +57,9 @@ Synchronous lectures: <br>
 
 All office hours are held remotely (online).
 
-| Dawn Song | TBD | [Meeting link](TODO) |
-| Zhe Ye | TBD | [Meeting link](TODO) |
-| Matthew Fogel | TBD | [Meeting link](TODO) |
+| Dawn Song | TBA | [Meeting link](TBA) |
+| Zhe Ye | TBA | [Meeting link](TBA) |
+| Matthew Fogel | TBA | [Meeting link](TBA) |
 
 ## Enrollment
 
@@ -70,11 +68,9 @@ CS graduate students: please register for CS294-177.<br>
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
-- TBD
-
-<!-- - 2 units: attend lectures + labs + weekly quizzes
+- 2 units: attend lectures + labs + weekly quizzes
 - 3 units: attend lectures + labs + weekly quizzes + class project
-- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component -->
+- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
 
 See the <a href="#grading" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Grading</a> section below for further details.
 
@@ -105,20 +101,11 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Grading
 
-TBD
+The class will have short written homework and hands-on labs. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
-<!--The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.-->
-
-<!-- <table>
+<table>
   <tr>
   <td style="vertical-align: top">
-      <b>1 unit</b><br><br>
-      <table>
-        <tr><td>Quizzes</td><td>50%</td></tr>
-        <tr><td>Participation</td><td>25%</td></tr>
-        <tr><td>Article</td><td>25%</td></tr>
-      </table>
-    </td>
     <td style="vertical-align: top">
       <b>2 units</b><br><br>
       <table>
@@ -156,7 +143,7 @@ TBD
       </table>
     </td>
   </tr>
-</table> -->
+</table>
 
 <!-- ### Summary Article
 
@@ -171,14 +158,14 @@ The article’s marking criteria can be found below:
 
 Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8. -->
 
-<!-- ### Quizzes
+### Quizzes
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week -- they will be graded on correctness. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group Project
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. **Groups of 5-6 students are required. 3-unit and 4-unit students should not be in the same group.**
-More detail regarding group formation and logistics will be posted when necessary. -->
+More detail regarding group formation and logistics will be posted when necessary.
 
 <!-- - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
 - **Project Proposal**: After your project idea and logistics are finalized, please fill out [this form](https://forms.gle/Vnmizcn6S8qpCefVA) (Due 10/03). -->
@@ -193,9 +180,11 @@ This year, Berkeley RDI will be hosting the [Crypto Economics Security Conferenc
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 -->
 
-<!-- ### Assignment Timeline
+### Assignment Timeline
 
-| Assignment           | Released | Deadline |
+TBA
+
+<!-- | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
 | Group formation      | 9/05     | 9/18     |
 | [Project proposal](https://www.gradescope.com/courses/608404/assignments/3367512/)     | 9/19     | 10/09    |
