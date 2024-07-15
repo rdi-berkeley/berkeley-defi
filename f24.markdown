@@ -105,7 +105,6 @@ The class will have short written homework and hands-on labs. Students enrolling
 
 <table>
   <tr>
-  <td style="vertical-align: top">
     <td style="vertical-align: top">
       <b>2 units</b><br><br>
       <table>
