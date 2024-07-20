@@ -3,6 +3,8 @@ layout: default
 title: "Decentralized Finance"
 subtitle: "Fall 2024"
 permalink: /f24
+redirect_from:
+  - /
 ---
 
 <center>
