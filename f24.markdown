@@ -80,9 +80,9 @@ See the <a href="#grading" style="text-decoration: none; color: hsl(232, 50%, 50
 We expect students to attend the live lectures in-person. If there is a guest lecture, we encourage students to ask questions. Participation will be measured by lecture attendance.
 If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
 
-## Course Syllabus
+## Course Syllabus (Tentative)
 
-<iframe aria-label="Course Syllabus" id="syllabus" src="./f24_syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe aria-label="Course Syllabus (Tentative)" id="syllabus" src="./f24_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {

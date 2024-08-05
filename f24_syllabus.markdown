@@ -12,7 +12,7 @@ permalink: /f24_syllabus
       <th style="width: 30%;"> Synchronous Lecture<br>(At 10:00 AM on <i>Date</i>) </th>
   </thead>
   <tbody>
-    {% for row in site.data.f23syllabus %}
+    {% for row in site.data.f24syllabus %}
     <tr>
       <td> {{ row.date }} </td>
       <td>
