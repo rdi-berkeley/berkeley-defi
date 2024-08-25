@@ -12,7 +12,7 @@ redirect_from:
 CS194-177 · CS294-177
 </center><p></p>
 
-- If you need a permission code to join the course, please fill out [this form](TODO) and we'll get back to you as soon as possible.
+- If you need a permission code to join the course, please fill out [this form](https://forms.gle/HSKg5XVADmrS9Brj6 ) and we'll get back to you as soon as possible.
 - If you cannot attend in-person lectures and must join remotely, please fill out [this form](TODO).
 - If you missed a one-off lecture and wish to get attendance, please fill out [this form](TODO) after watching the lecture recording.
 - For general course content related questions, please join our [Edstem](https://edstem.org/us/join/3vd3KG).
@@ -48,7 +48,7 @@ Zhe Ye (TA), Matthew Fogel (Reader)
 <!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
 
 Synchronous lectures: <br>
-**Monday, 10:00 AM - 12:00 PM** <br>
+**Monday, 10:30 AM - 11:30 PM** <br>
 **Joan and Sanford I. Weill 101D** <br>
 
 <!-- ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) -->
