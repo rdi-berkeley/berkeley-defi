@@ -184,8 +184,6 @@ The proposal should be submitted through [this google form](https://docs.google.
 
 ### Assignment Timeline
 
-TBA
-
 <!-- | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
 | Group formation      | 9/05     | 9/18     |
@@ -198,17 +196,17 @@ TBA
 | [Project presentation](https://edstem.org/us/courses/41944/discussion/3910164) | 11/21    | 12/04    |
 | [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    | -->
 
-<!-- | Assignment           | Released | Deadline |
+| Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
-| Group formation      | 8/29     | 9/11     |
-| Project proposal     | 9/12     | 10/02    |
-| Assignment 1         | 10/03    | 10/9     |
-| Assignment 2         | 10/17    | 10/23    |
-| Project milestone    | 10/24    | 10/29    |
-| Lab 1                | 10/31    | 11/06    |
-| Lab 2                | 11/07    | 11/20    |
-| Project presentation | 11/21    | 12/04    |
-| Project final report | 11/21    | 12/11    | -->
+| Group formation      | 9/9      | 9/22     |
+| Project proposal     | 9/23     | 10/13    |
+| Assignment 1         | 10/14    | 10/20    |
+| Assignment 2         | 10/21    | 10/27    |
+| Project milestone    | 10/28    | 11/3     |
+| Lab 1                | 11/4     | 11/10    |
+| Lab 2                | 11/11    | 11/24    |
+| Project presentation | 11/25    | 12/2     |
+| Project final report | 11/25    | 12/9     |
 
 ## Course Description
 
