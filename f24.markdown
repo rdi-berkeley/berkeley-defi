@@ -82,9 +82,7 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Course Syllabus
 
-TBD
-
-<!-- <iframe aria-label="Course Syllabus" id="syllabus" src="./f24_syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe aria-label="Course Syllabus" id="syllabus" src="./f24_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -100,11 +98,11 @@ TBD
       setIframeHeight(document.getElementById('syllabus'));
       setIframeHeight(document.getElementById('fireside'));
   };
-</script> -->
+</script>
 
 ## Grading
 
-The class will have short written homework and hands-on labs. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+The class will have short written homework and hands-on labs. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
 
 <table>
   <tr>
@@ -166,7 +164,7 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 ### Group Project
 
-Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. **Groups of 5-6 students are required. 3-unit and 4-unit students should not be in the same group.**
+Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. **Groups of 5 students are required. 3-unit and 4-unit students should not be in the same group.**
 More detail regarding group formation and logistics will be posted when necessary.
 
 <!-- - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
