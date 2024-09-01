@@ -8,7 +8,6 @@
   ama: "Dawn Song: DeFi Overview"
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
-  recording: https://drive.google.com/file/d/1H8CMyHpj4x68dcQaTKY3l8mlSuGjBlRO/view?usp=sharing
   slides:
     - name: Introduction and Overview of DeFi
       file: lec1-a.pdf
