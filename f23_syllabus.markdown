@@ -9,7 +9,7 @@ permalink: /f23_syllabus
       <th style="width: 10%;"> <i>Date</i> </th>
       <th style="width: 20%;"> Quiz<br>(Due by <i>Date</i>) </th>
       <th style="width: 40%;"> Asynchronous Lecture Video<br>(Watch by <i>Date</i>) </th>
-      <th style="width: 30%;"> Synchronous Lecture<br>(At 10:00 AM on <i>Date</i>) </th>
+      <th style="width: 30%;"> Synchronous Lecture<br>(At 10:30 AM on <i>Date</i>) </th>
   </thead>
   <tbody>
     {% for row in site.data.f23syllabus %}
