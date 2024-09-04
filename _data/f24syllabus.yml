@@ -5,6 +5,8 @@
   ama: None
 - date: 09/09
   topic: Introduction and Overview of DeFi
+  quiz:
+    name: None
   ama: "Dawn Song: DeFi Overview"
 - date: 09/16
   topic: Introduction to Blockchain Technology
