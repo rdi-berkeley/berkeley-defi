@@ -8,6 +8,7 @@
   quiz:
     name: None
   ama: "Dawn Song: DeFi Overview"
+  live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
   reading:
     - name: CeFi vs. DeFi
       file: arthur-cefi-vs-defi-2106.08157.pdf
