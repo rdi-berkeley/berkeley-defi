@@ -64,7 +64,7 @@ permalink: /f24_syllabus
             <br><a target="_parent" href="{{row.recording}}" style="text-decoration: underline;">Watch Recording</a>
           {% endif %}
           {% if row.live_slides %}
-            <br><a target="_parent" href="{{row.live_slides}}" style="text-decoration: underline;">Slides</a>
+            <br><a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/{{row.live_slides}}" style="text-decoration: underline;">Slides</a>
           {% endif %}
         {% else %}
           TBD
