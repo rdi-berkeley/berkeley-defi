@@ -38,9 +38,24 @@
     name: Quiz 1
     link: https://www.gradescope.com/courses/608404/assignments/3267971
   ama: "[ONLINE] Will Cong (Cornell): Introduction to Web3 Economics and Oracle Networks"
+  recording: https://drive.google.com/file/d/1YWe5Y1RcJe2FIQbE_q-Ajvs9-Oab1ATM/view?usp=sharing
 - date: 09/23
   topic: Introduction to Traditional Finance
   ama: Christine Parlour
+  youtube_premiere: https://youtu.be/hux0B-wBCwU
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
+  reading:
+  - name: Money in the Modern Economy
+    file: money-in-the-modern-economy-an-introduction.pdf
+  - name: Money Creation in the Modern Economy
+    file: money-creation-in-the-modern-economy.pdf
+  - name: Measuring Trade Execution Costs in Financial Markets
+    file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
+  - name: Market Microstructure
+    file: Biais_Glosten_spatt.pdf
+  quiz:
+    name: Quiz 2
+    link: https://www.gradescope.com/courses/848451/assignments/4979560
 - date: 09/30
   topic: Introduction to Smart Contracts
   ama: Andrew Miller (UIUC)
