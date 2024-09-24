@@ -59,6 +59,25 @@
 - date: 09/30
   topic: Introduction to Smart Contracts
   ama: Andrew Miller (UIUC)
+  youtube_premiere: https://youtu.be/iK93guovsXQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE
+  quiz:
+    name: Quiz 3
+    link: https://www.gradescope.com/courses/848451/assignments/5027448
+  slides:
+    - name: Introduction to Smart Contracts
+      file: Lecture 3 Slides.pdf
+    - name: Cryptocurrency and Privacy Law
+      file: Cryptocurrency-and-Privacy-Law.pdf
+  reading:
+    - name: Formalizing and Securing Relationships on Public Networks
+      link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
+    - name: Ethereum Whitepaper
+      link: https://ethereum.org/en/whitepaper/
+    - name: Introduction to Smart Contracts (Solidity Documentation)
+      link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
+    - name: Solidity by Example
+      link: https://solidity-by-example.org/
 - date: 10/07
   topic: DEX
   ama: Peter Nobel 
