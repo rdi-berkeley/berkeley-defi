@@ -88,8 +88,7 @@
   topic: Oracles
   ama: "[ONLINE] Ari Juels (Cornell)"
 - date: 10/21
-  topic: Synthetics and Derivatives
-  ama: Christine Parlour
+  topic: Privacy on the Blockchain
 - date: 10/28
   topic: Stablecoins
   ama: "[ONLINE] Arthur Gervais (UCL)"
@@ -103,11 +102,12 @@
   ama: None
 - date: 11/18
   topic: DeFi Security I
+  ama: Christine Parlour
 - date: 11/25
   topic: DeFi Security II
 - date: 12/02
-  topic: Privacy on the Blockchain
+  topic: Decentralized Identities
   ama: Project presentation
-- date: 12/09
-  topic: Decentralized Identities (Optional)
-  ama: None
+# - date: 12/09
+#   topic: Decentralized Identities (Optional)
+#   ama: None
