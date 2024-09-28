@@ -88,7 +88,7 @@
   topic: Oracles
   ama: "[ONLINE] Ari Juels (Cornell)"
 - date: 10/21
-  topic: Privacy on the Blockchain
+  topic: Decentralized Identities
 - date: 10/28
   topic: Stablecoins
   ama: "[ONLINE] Arthur Gervais (UCL)"
@@ -106,7 +106,7 @@
 - date: 11/25
   topic: DeFi Security II
 - date: 12/02
-  topic: Decentralized Identities
+  topic: Privacy on the Blockchain
   ama: Project presentation
 # - date: 12/09
 #   topic: Decentralized Identities (Optional)
