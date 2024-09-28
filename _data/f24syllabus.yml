@@ -88,12 +88,12 @@
   topic: Oracles
   ama: "[ONLINE] Ari Juels (Cornell)"
 - date: 10/21
-  topic: Decentralized Identities
+  topic: Decentralized Lending
 - date: 10/28
   topic: Stablecoins
   ama: "[ONLINE] Arthur Gervais (UCL)"
 - date: 11/04
-  topic: Decentralized Lending
+  topic: Privacy on the Blockchain
   ama: David Schwartz (Ripple)
 - date: 11/11
   topic: No class (Veterans Day)
@@ -106,7 +106,7 @@
 - date: 11/25
   topic: DeFi Security II
 - date: 12/02
-  topic: Privacy on the Blockchain
+  topic: Decentralized Identities
   ama: Project presentation
 # - date: 12/09
 #   topic: Decentralized Identities (Optional)
