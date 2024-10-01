@@ -161,7 +161,7 @@ Students who wish to choose the summit option may fill out this <a href="https:/
 
 ### Quizzes
 
-All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week -- they will be graded on correctness. The questions are all multiple-choice and there are usually at most 5 per quiz.
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due before the following lecture. Please remember to complete the quiz each week -- they will be graded on completion. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group Project
 
