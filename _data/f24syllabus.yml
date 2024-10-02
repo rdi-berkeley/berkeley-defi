@@ -62,6 +62,8 @@
 - date: 09/30
   topic: Introduction to Smart Contracts
   ama: "[ONLINE] Andrew Miller (UIUC): The use of Trusted Execution Environments (TEE) in DeFi"
+  recording: https://drive.google.com/file/d/1bZO3bxQpeQNB59Alq7uecbactRLt9Dnw/view?usp=sharing
+  live_slides: "f24/lec4-andrew-miller.pdf"
   youtube_premiere: https://youtu.be/iK93guovsXQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE
   quiz:
