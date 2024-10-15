@@ -127,6 +127,25 @@
       file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/21
   topic: Decentralized Lending
+  youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
+  quiz:
+    name: Quiz 6
+    link: https://www.gradescope.com/courses/848451/assignments/5099862
+  slides:
+    - name: Decentralized Lending
+      file: Lecture 6 Slides.pdf
+  reading:
+    - name: A Study of DeFi Liquidations
+      file: A Study of DeFi Liquidations.pdf
+    - name: Attacking DeFi with Flash Loans
+      file: Attacking DeFi With Flash Loans.pdf
+    - name: DeFi Protocols for Loanable Funds
+      file: DeFi Protocols for Loanable Funds.pdf
+    - name: Liquidations
+      file: Liquidations.pdf
+    - name: The Decentralized Financial Crisis
+      file: The Decentralized Financial Crisis.pdf
 - date: 10/28
   topic: Stablecoins
   ama: "[ONLINE] Arthur Gervais (UCL)"
