@@ -153,7 +153,6 @@
   ama: "[ONLINE] Arthur Gervais (UCL)"
 - date: 11/04
   topic: Privacy on the Blockchain
-  ama: David Schwartz (Ripple)
 - date: 11/11
   topic: No class (Veterans Day)
   quiz:
@@ -164,6 +163,7 @@
   ama: Christine Parlour
 - date: 11/25
   topic: DeFi Security II
+  ama: David Schwartz (Ripple)
 - date: 12/02
   topic: Decentralized Identities
   ama: Project presentation
