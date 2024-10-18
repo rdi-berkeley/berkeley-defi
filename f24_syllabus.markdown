@@ -22,10 +22,10 @@ permalink: /f24_syllabus
           {% else %}
           <a target="_parent" href="{{row.quiz.link}}" style="text-decoration: underline;">{{row.quiz.name}}</a>
         {% else %}
-          TBD
+          TBA
         {% endif %}
         {% else %}
-          TBD
+          TBA
         {% endif %}
       </td>
       <td> {{ row.topic }}

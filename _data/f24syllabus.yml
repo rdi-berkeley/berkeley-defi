@@ -7,7 +7,7 @@
   topic: Introduction and Overview of DeFi
   quiz:
     name: None
-  ama: "Dawn Song: DeFi Overview"
+  ama: "[IN-PERSON] Dawn Song: DeFi Overview"
   live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
   recording: https://drive.google.com/file/d/1ai7mQjlJ3WtmzlogYzEyU18lhMgSlULb/view
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
@@ -42,7 +42,7 @@
   recording: https://drive.google.com/file/d/1YWe5Y1RcJe2FIQbE_q-Ajvs9-Oab1ATM/view?usp=sharing
 - date: 09/23
   topic: Introduction to Traditional Finance
-  ama: "Christine Parlour: Introduction to Traditional Finance"
+  ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
   recording: https://drive.google.com/file/d/1AAEmlOnDr9k4kDueGbbForWp5l8Tqwqr/view?usp=sharing
   live_slides: "f24/defi-mooc-parlour.pdf"
   youtube_premiere: https://youtu.be/hux0B-wBCwU
@@ -85,7 +85,7 @@
       link: https://solidity-by-example.org/
 - date: 10/07
   topic: DEX
-  ama: Peter Nobel
+  ama: "[IN-PERSON] Peter Nobel"
   youtube_premiere: https://youtu.be/pRO5YW5qb-k
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
   quiz:
@@ -129,6 +129,7 @@
       file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/21
   topic: Decentralized Lending
+  ama: "[IN-PERSON] Sandro Herbig and Alex Blania (Worldcoin)"
   youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
   quiz:
@@ -160,10 +161,10 @@
   ama: None
 - date: 11/18
   topic: DeFi Security I
-  ama: Christine Parlour
+  ama: "[IN-PERSON] Christine Parlour"
 - date: 11/25
   topic: DeFi Security II
-  ama: David Schwartz (Ripple)
+  ama: "[IN-PERSON] David Schwartz (Ripple)"
 - date: 12/02
   topic: Decentralized Identities
   ama: Project presentation
