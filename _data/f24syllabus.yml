@@ -151,7 +151,7 @@
       file: The Decentralized Financial Crisis.pdf
 - date: 10/28
   topic: Stablecoins
-  ama: "[ONLINE] Arthur Gervais (UCL)"
+  ama: "[ONLINE] Fan Zhang (Yale)"
   youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
   quiz:
     name: Quiz 7
@@ -172,6 +172,7 @@
       file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 11/04
   topic: Privacy on the Blockchain
+  ama: "[ONLINE] Arthur Gervais (UCL)"
 - date: 11/11
   topic: No class (Veterans Day)
   quiz:
