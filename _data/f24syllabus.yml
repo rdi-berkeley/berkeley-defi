@@ -173,6 +173,25 @@
 - date: 11/04
   topic: Privacy on the Blockchain
   ama: "[ONLINE] Arthur Gervais (UCL)"
+  youtube_premiere: https://youtu.be/H3GmsxRU1Kw
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw
+  quiz:
+    name: Quiz 8
+    link: https://www.gradescope.com/courses/848451/assignments/5099868
+  slides:
+    - name: Privacy on the Blockchain
+      file: NEW Lecture 10 Slides.pdf
+  reading:
+    - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
+      link: https://cs251.stanford.edu
+    - name: A Fistful of Bitcoins
+      file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
+    - name: Succinct Non-Interactive Arguments
+      file: Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf
+    - name: Tornado Cash Whitepaper
+      file: Tornado Cash Whitepaper.pdf
+    - name: Confidential Transactions
+      link: https://elementsproject.org/features/confidential-transactions/investigation
 - date: 11/11
   topic: No class (Veterans Day)
   quiz:
