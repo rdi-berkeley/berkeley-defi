@@ -151,8 +151,9 @@
       file: The Decentralized Financial Crisis.pdf
 - date: 10/28
   topic: Stablecoins
-  ama: "[ONLINE] Fan Zhang (Yale)"
+  ama: "[ONLINE] Fan Zhang (Yale): (De)centralization of Ethereum's builder market"
   recording: https://drive.google.com/file/d/1NiFfav63xWSnFp5NvAipnn9XtqfkOFX0/view?usp=sharing
+  live_slides: "f24/lec8-fan-zhang.pdf"
   youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
   quiz:
     name: Quiz 7
