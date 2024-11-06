@@ -174,7 +174,9 @@
       file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 11/04
   topic: Privacy on the Blockchain
-  ama: "[ONLINE] Arthur Gervais (UCL)"
+  ama: "[ONLINE] Arthur Gervais (UCL): Oracles and Censorship"
+  recording: https://drive.google.com/file/d/1YUfyAnMJpL5S1XTYo-B34JSTi0lMhiPO/view?usp=sharing
+  live_slides: "f24/lec9-arthur-gervais.pdf"
   youtube_premiere: https://youtu.be/H3GmsxRU1Kw
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw
   quiz:
