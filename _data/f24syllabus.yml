@@ -204,6 +204,14 @@
 - date: 11/18
   topic: DeFi Security I
   ama: "[IN-PERSON] Christine Parlour"
+  youtube_premiere: https://youtu.be/pJKy5HWuFK8
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
+  quiz:
+    name: Quiz 9
+    link: https://www.gradescope.com/courses/848451/assignments/5100138
+  slides:
+    - name: Practical Smart Contract Security
+      file: Lecture 12 Slides.pdf
 - date: 11/25
   topic: DeFi Security II
   ama: "[IN-PERSON] David Schwartz (Ripple)"
