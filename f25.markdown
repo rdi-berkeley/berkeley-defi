@@ -1,0 +1,237 @@
+---
+layout: default
+title: "Decentralized Finance"
+subtitle: "Fall 2025"
+permalink: /f25
+redirect_from:
+  - /
+---
+
+<center>
+<h2>Fall 2025</h2>
+CS194-177 · CS294-177
+</center><p></p>
+<!-- 
+- If you need a permission code to join the course, please fill out [this form](https://forms.gle/HSKg5XVADmrS9Brj6 ) and we'll get back to you as soon as possible.
+- If you cannot attend in-person lectures and must join remotely, please fill out [this form](https://forms.gle/BESJPsXVFDQdzSmSA).
+- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/8zSpvZuAkNnnoetc8) after watching the lecture recording.
+- For general course content related questions, please join our [Edstem](https://edstem.org/us/join/3vd3KG).
+- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span> -->
+
+<i>Please note that this course is currently in development and website content may be updated as we finalize materials and details.</i>
+
+## Instructors
+
+<table style="table-layout: fixed; font-size: 88%; align: middle;">
+  <thead>
+    <tr>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="./assets/christine_parlour.jpg" alt="Christine Parlour"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="./assets/dawn-berkeley.jpg" alt="Dawn Song"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://haas.berkeley.edu/faculty/parlour-christine/">Christine Parlour</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+    </tr>
+    <tr>
+      <td>UC Berkeley</td>
+      <td>UC Berkeley</td>
+    </tr>
+  </tbody>
+</table>
+
+## Course Staff
+
+<!-- Zhe Ye (TA), Matthew Fogel (Reader) -->
+TBA
+
+## Meetings
+
+TBA
+
+<!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
+<!-- 
+Synchronous lectures: <br>
+**Monday, 10:30 AM - 11:30 AM** <br>
+**Joan and Sanford I. Weill 101D** <br>
+
+Join remote: [Zoom](https://berkeley.zoom.us/j/95209690888?pwd=FEVsVBybduLBo1gCApA6591kBmY9au.1) -->
+
+<!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
+
+## Office Hours
+
+TBA
+
+<!-- All office hours are held remotely (online).
+
+| Zhe Ye | Monday 2:30pm-3:30pm | [Meeting link](https://berkeley.zoom.us/j/95600039046?pwd=WlrFbI12sefZza3tOwaSLibgcWneFl.1) | -->
+
+<!-- | Matthew Fogel | TBA | [Meeting link](TBA) | -->
+
+## Enrollment
+
+CS undergraduate students: please register for CS194-177.<br>
+CS graduate students: please register for CS294-177.<br>
+
+This is a variable-unit course. The requirements for each number of units are listed below.
+
+- 2 units: attend lectures + labs + weekly quizzes
+- 3 units: attend lectures + labs + weekly quizzes + class project
+- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
+
+See the <a href="#grading" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Grading</a> section below for further details.
+
+## Participation
+
+We expect students to attend the live lectures in-person. If there is a guest lecture, we encourage students to ask questions. Participation will be measured by lecture attendance.
+If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
+
+## Course Syllabus
+
+TBA
+
+<!-- <iframe aria-label="Course Syllabus" id="syllabus" src="./f25_syllabus" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('syllabus'));
+      setIframeHeight(document.getElementById('fireside'));
+  };
+</script> -->
+
+## Grading
+
+The class will have short written homework and hands-on labs. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (5 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+
+<table>
+  <tr>
+    <td style="vertical-align: top">
+      <b>2 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>25%</td></tr>
+        <tr><td>Quizzes</td><td>25%</td></tr>
+        <tr><td>Assignments</td><td>15%</td></tr>
+        <tr><td>Labs</td><td>35%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>3 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Assignments</td><td>5%</td></tr>
+        <tr><td>Labs</td><td>15%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>15%</td></tr>
+        <tr><td>… Presentation</td><td>15%</td></tr>
+        <tr><td>… Report</td><td>25%</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top">
+      <b>4 units</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>10%</td></tr>
+        <tr><td>Quizzes</td><td>10%</td></tr>
+        <tr><td>Assignments</td><td>5%</td></tr>
+        <tr><td>Labs</td><td>15%</td></tr>
+        <tr><td>Project Proposal</td><td>5%</td></tr>
+        <tr><td>… Milestone</td><td>10%</td></tr>
+        <tr><td>… Presentation</td><td>10%</td></tr>
+        <tr><td>… Report</td><td>20%</td></tr>
+        <tr><td>… Implementation</td><td>15%</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- ### Summary Article
+
+Students enrolled in 1 unit are expected to submit a 500-word summary article of one of the lectures. Alternatively, students that attend The <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option if the article is publicly accessible.
+
+The article’s marking criteria can be found below:
+
+- Understanding (3 marks): displays breadth/depth of understanding of the topic.
+- Importance (2 marks): content conveys an important aspect of the topic's impact.
+- Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
+- References (2 marks): cites the relevant lecture and reference material such as research papers properly.
+
+Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8. -->
+
+### Quizzes
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due before the following lecture. Please remember to complete the quiz each week -- they will be graded on completion. The questions are all multiple-choice and there are usually at most 5 per quiz.
+
+### Group Project
+
+Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. **Groups of 5 students are required. 3-unit and 4-unit students should not be in the same group.**
+More detail regarding group formation and logistics will be posted when necessary.
+
+<!-- - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
+- **Project Proposal**: After your project idea and logistics are finalized, please fill out [this form](https://forms.gle/Vnmizcn6S8qpCefVA) (Due 10/03). -->
+
+<!--
+### Bonus Points: CESC
+
+This year, Berkeley RDI will be hosting the [Crypto Economics Security Conference (CESC)](https://cesc.io/) from Oct 31 to Nov 1. There will be no AMA that week. Instead, we highly recommend that you attend CESC to learn more about DeFi topics you may be interested in. All students who attend CESC and produce a short written report about one or more interesting presentations at the conference will be awarded bonus points in the course. Students who are participating in a course project will be eligible for additional bonus points if they present their project at the CESC poster session. If you are interested in taking advantage of either of these extra credit opportunities, please register as soon as possible at [CESC.io](https://cesc.io/). Registration is free, but capacity for in-person attendance is limited.
+-->
+
+<!--
+The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
+-->
+
+### Assignment Timeline
+
+<!-- | Assignment           | Released | Deadline |
+| :------------------- | :------- | :------- |
+| Group formation      | 9/05     | 9/18     |
+| [Project proposal](https://www.gradescope.com/courses/608404/assignments/3367512/)     | 9/19     | 10/09    |
+| [Assignment 1](https://www.gradescope.com/courses/608404/assignments/3424865)         | 10/10    | 10/16    |
+| [Assignment 2](https://www.gradescope.com/courses/608404/assignments/3511478)         | 10/24    | 10/30    |
+| [Project milestone](https://www.gradescope.com/courses/608404/assignments/3548221/)    | 10/31    | 11/06    |
+| [Lab 1](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/07    | 11/13    |
+| [Lab 2](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/14    | 11/27    |
+| [Project presentation](https://edstem.org/us/courses/41944/discussion/3910164) | 11/21    | 12/04    |
+| [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    | -->
+
+TBA
+
+<!-- | Assignment           | Released | Deadline |
+| :------------------- | :------- | :------- |
+| Group formation      | 9/9      | 9/22     |
+| Project proposal     | 9/23     | 10/13    |
+| Assignment 1         | 10/14    | 10/20    |
+| Assignment 2         | 10/21    | 10/27    |
+| Project milestone    | 10/28    | 11/3     |
+| Lab 1                | 11/4     | 11/10    |
+| Lab 2                | 11/11    | 11/24    |
+| Project presentation | 11/25    | 12/2     |
+| Project final report | 11/25    | 12/9     | -->
+
+## Course Description
+
+The purpose of this class is to bring together students and interdisciplinary experts in Computer Science and Finance to discuss the emerging area of Decentralized Finance (or DeFi). DeFi has experienced an unprecedented growth, with hundreds of projects and a countless stream of financial, distributed systems, and blockchain innovations. The total value locked (TVL) in decentralized finance — a measure of the total value of assets committed to the DeFi ecosystem — has reached over $80 billion. When compared to the traditional centralized finance (CeFi), DeFi offers products and services serving similar financial goals, but critically innovates with novel capabilities such as instantaneous multi-billion USD flash loans. By utilizing blockchain and smart contract technologies, DeFi as a whole aims to provide a new platform for programmable, automated finance services that remove the reliance on central trust and intermediaries.
+
+Our goal is to provide a framework to understand this new area of financial services. For each finance function, we will consider 1) the current intermediated structure, and then b) the DeFi version (actual or proposed) that fulfills the function. Is either one of these optimal? We will evaluate both through the lens of CS and finance. Is the application computable (efficiency, decidable), programmable (automatic)? Is the application welfare-enhancing and stable (not a source of systemic risk). How do the new and old systems interact? We aim for the students to be able to critically evaluate whether a new DeFi protocol is novel and practical. We further will capture the security danger in DeFi, as well as their impact on the underlying consensus security. Lastly, we hope to give an insight into how to program and structure secure and incentive-compatible DeFi applications.
+
+Through the exposure to cutting-edge research as well as remaining open challenges, we hope for our students to quickly integrate into academic as well as industrial projects related to DeFi.
+
+Summarizing, we will cover a broad spectrum of topics, including:
+
+1. A comprehensive introduction covering a computer science and finance background required for the remainder of the course. We will discuss the basics of decentralized systems, permissionless blockchains, consensus, smart contracts and contrast DeFi to traditional finance.
+
+2. We will cover the computer science and economic aspects of DeFi assets, and how they link to CeFi through stablecoins. The course will elaborate on DeFi asset exchanges and contrast the traditional limit order book models to automated market makers. Just like in CeFi, debt and derivatives play a fundamental role in DeFi. We’ll dive into the various debt models, such as under- and over-collateralized debt, as well as synthetic assets in DeFi. Insurances, portfolio management and prediction markets form equally crucial elements to a decentralised economy as we will elaborate on. Last but not least, we will show different attempts at measuring and tracking systemic risk and its computability.
+
+3. To link blockchains with financial information from the real-world, we will provide a deep-dive into oracles. We will discuss decentralized reputation, identities and proof of properties. Because most DeFi is transparently readable, including transaction amounts, fees, dates/times, etc, privacy plays an increasingly important role in DeFi. We will cover various privacy technologies including zero-knowledge proofs and their applications in DeFi. We will also discuss various attempts at how to enforce data ownership, data monetization and valuation as well as controlled use and misuse of data.
+
+4. A digital economy would not thrive without strong security. We will outline the many past security attacks, introspect a few of them in closer detail and provide recommendations on how to strengthen DeFi security. We will discuss the systemic risks stemming from Miner Extractable Value (MEV) and how MEV can be minimized by design. Decentralized governance provides power to a pseudonymous collective, and we will explore how governance works, and how it may be attacked.
