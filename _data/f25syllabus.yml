@@ -1,0 +1,258 @@
+- date: 09/01
+  topic: No class (Labor Day)
+  quiz:
+    name: None
+  ama: None
+- date: 09/08
+  topic: Introduction and Overview of DeFi
+  quiz:
+    name: None
+  # ama: "[IN-PERSON] Dawn Song: DeFi Overview"
+  # live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
+  # recording: https://drive.google.com/file/d/1ai7mQjlJ3WtmzlogYzEyU18lhMgSlULb/view
+  youtube_premiere: https://youtu.be/gX3mc83CJtQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  reading:
+    - name: CeFi vs. DeFi
+      file: arthur-cefi-vs-defi-2106.08157.pdf
+    - name: DeFi SoK
+      file: defi-sok-ariah-2101.08778.pdf
+    - name: Schär, F., 2021
+      file: Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf
+- date: 09/15
+  topic: Introduction to Blockchain Technology
+  youtube_premiere: https://www.youtube.com/watch?v=FmKbGHu7oAM
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31
+  reading:
+  - name: Lightning Network
+    file: lightning-network-paper.pdf
+  - name: Multi-Path Routing
+    file: 1910.01834.pdf
+  - name: Rollup
+    link: https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93
+  - name: Bridges
+    link: https://blog.makerdao.com/what-are-blockchain-bridges-and-why-are-they-important-for-defi/ 
+  - name: Bitcoin Whitepaper
+    file: bitcoin.pdf
+  # quiz:
+  #   name: Quiz 1
+  #   link: https://www.gradescope.com/courses/608404/assignments/3267971
+  # ama: "[ONLINE] Will Cong (Cornell): Introduction to Web3 Economics and Oracle Networks"
+  # live_slides: "f24/lec2-will-cong.pdf"
+  # recording: https://drive.google.com/file/d/1YWe5Y1RcJe2FIQbE_q-Ajvs9-Oab1ATM/view?usp=sharing
+- date: 09/22
+  topic: Introduction to Traditional Finance
+  # ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
+  # recording: https://drive.google.com/file/d/1AAEmlOnDr9k4kDueGbbForWp5l8Tqwqr/view?usp=sharing
+  # live_slides: "f24/defi-mooc-parlour.pdf"
+  youtube_premiere: https://youtu.be/hux0B-wBCwU
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
+  reading:
+  - name: Money in the Modern Economy
+    file: money-in-the-modern-economy-an-introduction.pdf
+  - name: Money Creation in the Modern Economy
+    file: money-creation-in-the-modern-economy.pdf
+  - name: Measuring Trade Execution Costs in Financial Markets
+    file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
+  - name: Market Microstructure
+    file: Biais_Glosten_spatt.pdf
+  # quiz:
+  #   name: Quiz 2
+  #   link: https://www.gradescope.com/courses/848451/assignments/4979560
+- date: 09/29
+  topic: Introduction to Smart Contracts
+  # ama: "[ONLINE] Andrew Miller (UIUC): The use of Trusted Execution Environments (TEE) in DeFi"
+  # recording: https://drive.google.com/file/d/1bZO3bxQpeQNB59Alq7uecbactRLt9Dnw/view?usp=sharing
+  # live_slides: "f24/lec4-andrew-miller.pdf"
+  youtube_premiere: https://youtu.be/iK93guovsXQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE
+  # quiz:
+  #   name: Quiz 3
+  #   link: https://www.gradescope.com/courses/848451/assignments/5027448
+  slides:
+    - name: Introduction to Smart Contracts
+      file: Lecture 3 Slides.pdf
+    - name: Cryptocurrency and Privacy Law
+      file: Cryptocurrency-and-Privacy-Law.pdf
+  reading:
+    - name: Formalizing and Securing Relationships on Public Networks
+      link: https://firstmonday.org/ojs/index.php/fm/article/download/548/469
+    - name: Ethereum Whitepaper
+      link: https://ethereum.org/en/whitepaper/
+    - name: Introduction to Smart Contracts (Solidity Documentation)
+      link: https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
+    - name: Solidity by Example
+      link: https://solidity-by-example.org/
+- date: 10/06
+  topic: DEX
+  # ama: "[IN-PERSON] Peter Nobel"
+  # youtube_premiere: https://youtu.be/pRO5YW5qb-k
+  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
+  # quiz:
+  #   name: Quiz 4
+  #   link: https://www.gradescope.com/courses/848451/assignments/5076707
+  slides:
+    - name: DEX
+      file: Updated Lecture 5 Slides.pdf
+    - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
+      file: Dan Robinson Lecture Slides.pdf
+  reading:
+    - name: Analysis of Uniswap Markets
+      file: Analysis of Uniswap Markets.pdf
+    - name: DEX with AMM Protocols
+      file: DEX with AMM Protocols.pdf
+    - name: StableSwap
+      file: StableSwap.pdf
+    - name: Theory of AMM in DeFi
+      file: Theory of AMM in DeFi.pdf
+    - name: Uniswap v3 Core Whitepaper
+      file: Uniswap v3 Core.pdf
+- date: 10/13
+  topic: Oracles
+  # ama: "[ONLINE] Ari Juels (Cornell): The Oracle: A Crypto Thriller Novel"
+  # recording: https://drive.google.com/file/d/1NkF1_sIoj84i5SmLQ4jPikORlzPYWY54/view?usp=sharing
+  # live_slides: "f24/lec6-ari-juels.pdf"
+  # quiz:
+  #   name: Quiz 5
+  #   link: https://www.gradescope.com/courses/848451/assignments/5099855
+  youtube_premiere: https://youtu.be/vFcW18ZpPZ4
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoo70DT2YsBmNUol4134S9C9
+  slides:
+    - name: Oracles
+      file: COMPRESSED Oracle Lecture—DeFi course.pdf
+  reading:
+    - name: An Authenticated Data Feed for Smart Contracts
+      file: An Authenticated Data Feed for Smart Contracts.pdf
+    - name: Chainlink 2.0
+      file: Chainlink 2.0.pdf
+    - name: Liberating Web Data Using Decentralized Oracles
+      file: Liberating Web Data Using Decentralized Oracles.pdf
+- date: 10/20
+  topic: Decentralized Lending
+  # ama: "[IN-PERSON] Sandro Herbig and Alex Blania (Worldcoin): System Overview of the World Project"
+  # youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
+  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
+  # quiz:
+  #   name: Quiz 6
+  #   link: https://www.gradescope.com/courses/848451/assignments/5099862
+  slides:
+    - name: Decentralized Lending
+      file: Lecture 6 Slides.pdf
+  reading:
+    - name: A Study of DeFi Liquidations
+      file: A Study of DeFi Liquidations.pdf
+    - name: Attacking DeFi with Flash Loans
+      file: Attacking DeFi With Flash Loans.pdf
+    - name: DeFi Protocols for Loanable Funds
+      file: DeFi Protocols for Loanable Funds.pdf
+    - name: Liquidations
+      file: Liquidations.pdf
+    - name: The Decentralized Financial Crisis
+      file: The Decentralized Financial Crisis.pdf
+- date: 10/27
+  topic: Stablecoins
+  # ama: "[ONLINE] Fan Zhang (Yale): (De)centralization of Ethereum's builder market"
+  # recording: https://drive.google.com/file/d/1NiFfav63xWSnFp5NvAipnn9XtqfkOFX0/view?usp=sharing
+  # live_slides: "f24/lec8-fan-zhang.pdf"
+  youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
+  # quiz:
+  #   name: Quiz 7
+  #   link: https://www.gradescope.com/courses/848451/assignments/5099866
+  slides:
+    - name: Stablecoins I
+      file: Lecture 7 Introduction Slides.pdf
+  reading:
+    - name: (In)Stability for the Blockchain
+      file: (In)Stability for the Blockchain.pdf
+    - name: Stablecoins 2.0
+      file: Stablecoins 2.0 .pdf
+    - name: Search for Stability in Crypto Assets
+      file: Search for Stability in Crypto Assets.pdf
+    - name: While Stability Lasts
+      file: While Stability Lasts.pdf
+    - name: Unique Equilibrium in Currency Attacks
+      file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
+- date: 11/03
+  topic: Privacy on the Blockchain
+  # ama: "[ONLINE] Arthur Gervais (UCL): Oracles and Censorship"
+  # recording: https://drive.google.com/file/d/1YUfyAnMJpL5S1XTYo-B34JSTi0lMhiPO/view?usp=sharing
+  # live_slides: "f24/lec9-arthur-gervais.pdf"
+  youtube_premiere: https://youtu.be/H3GmsxRU1Kw
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorEzMOg2dpg7KwB5nhQHhSw
+  # quiz:
+  #   name: Quiz 8
+  #   link: https://www.gradescope.com/courses/848451/assignments/5099868
+  slides:
+    - name: Privacy on the Blockchain
+      file: NEW Lecture 10 Slides.pdf
+  reading:
+    - name: Cryptocurrencies and Blockchain Technologies (CS251 at Stanford)
+      link: https://cs251.stanford.edu
+    - name: A Fistful of Bitcoins
+      file: A Fistful of Bitcoins- Characterizing Payments Among Men with No Names.pdf
+    - name: Succinct Non-Interactive Arguments
+      file: Succinct Non-Interactive Arguments via Linear Interactive Proofs.pdf
+    - name: Tornado Cash Whitepaper
+      file: Tornado Cash Whitepaper.pdf
+    - name: Confidential Transactions
+      link: https://elementsproject.org/features/confidential-transactions/investigation
+- date: 11/10
+  topic: DeFi Security I
+  # ama: "[IN-PERSON] Christine Parlour: Synthetics, Derivatives and Tokenized Assets"
+  # recording: https://drive.google.com/file/d/1r7CmE1rT8LchZLCB71gnulhlasamO-Rf/view?usp=sharing
+  # live_slides: "f24/lec10-christine.pdf"
+  youtube_premiere: https://youtu.be/pJKy5HWuFK8
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoos65Y38qr9is9fqnoJ2tmU
+  # quiz:
+  #   name: Quiz 9
+  #   link: https://www.gradescope.com/courses/848451/assignments/5100138
+  slides:
+    - name: Practical Smart Contract Security
+      file: Lecture 12 Slides.pdf
+- date: 11/17
+  topic: DeFi Security II
+  # ama: "[IN-PERSON] David Schwartz (Ripple): Building the Bridge Between DeFi and TradFi for a Secure and Scalable Financial System"
+  youtube_premiere: https://youtu.be/GIHa2GQJY1k
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9
+  # quiz:
+  #   name: Quiz 10
+  #   link: https://www.gradescope.com/courses/848451/assignments/5100144
+  slides:
+    - name: Smart Contract Security
+      file: Lec 13 Slides.pdf
+  reading:
+    - name: Detecting and Quantifying Wash Trading
+      file: Detecting and Quantifying Wash Trading.pdf
+    - name: Flash Boys
+      file: Flash Boys.pdf
+    - name: High Frequency Trading
+      file: High Frequency Trading.pdf
+    - name: Profit-Generating Transactions
+      file: Profit-Generating Transactions.pdf
+    - name: Quantifying Blockchain Abstractable Value
+      file: Quantifying Blockchain Abstractable Value.pdf
+- date: 11/24
+  topic: Decentralized Identities
+  # ama: Project presentation (no synchronous lecture)
+  youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
+  # quiz:
+  #   name: Quiz 11
+  #   link: https://www.gradescope.com/courses/848451/assignments/5100145
+  slides:
+    - name: Decentralized Identities
+      file: Defi MOOC - Decentralized Identity.pptx.pdf
+  reading:
+    - name: Proof of Person
+      file: Proof of Person.pdf
+    - name: CanDID
+      file: CanDID.pdf
+    - name: IPFS
+      file: IPFS.pdf
+    - name: Axioms of Web Architecture
+      link: https://www.w3.org/DesignIssues/Axioms.html#uri
+    - name: Quadratic Payments
+      link: https://vitalik.ca/general/2019/12/07/quadratic.html
+# - date: 12/09
+#   topic: Decentralized Identities (Optional)
+#   ama: None

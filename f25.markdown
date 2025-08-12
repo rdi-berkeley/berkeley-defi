@@ -44,19 +44,17 @@ CS194-177 · CS294-177
 ## Course Staff
 
 <!-- Zhe Ye (TA), Matthew Fogel (Reader) -->
-TBA
+Zhe Ye (TA)
 
 ## Meetings
 
-TBA
-
 <!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
-<!-- 
+
 Synchronous lectures: <br>
 **Monday, 10:30 AM - 11:30 AM** <br>
-**Joan and Sanford I. Weill 101D** <br>
+**Tan 108** <br>
 
-Join remote: [Zoom](https://berkeley.zoom.us/j/95209690888?pwd=FEVsVBybduLBo1gCApA6591kBmY9au.1) -->
+Join remote: Link TBA <!-- [Zoom](https://berkeley.zoom.us/j/95209690888?pwd=FEVsVBybduLBo1gCApA6591kBmY9au.1) -->
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
@@ -90,9 +88,7 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Course Syllabus
 
-TBA
-
-<!-- <iframe aria-label="Course Syllabus" id="syllabus" src="./f25_syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe aria-label="Course Syllabus" id="syllabus" src="./f25_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -108,7 +104,7 @@ TBA
       setIframeHeight(document.getElementById('syllabus'));
       setIframeHeight(document.getElementById('fireside'));
   };
-</script> -->
+</script>
 
 ## Grading
 
@@ -204,19 +200,18 @@ The proposal should be submitted through [this google form](https://docs.google.
 | [Project presentation](https://edstem.org/us/courses/41944/discussion/3910164) | 11/21    | 12/04    |
 | [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    | -->
 
-TBA
 
-<!-- | Assignment           | Released | Deadline |
+| Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
-| Group formation      | 9/9      | 9/22     |
-| Project proposal     | 9/23     | 10/13    |
-| Assignment 1         | 10/14    | 10/20    |
-| Assignment 2         | 10/21    | 10/27    |
-| Project milestone    | 10/28    | 11/3     |
-| Lab 1                | 11/4     | 11/10    |
-| Lab 2                | 11/11    | 11/24    |
-| Project presentation | 11/25    | 12/2     |
-| Project final report | 11/25    | 12/9     | -->
+| Group formation      | 9/8      | 9/21     |
+| Project proposal     | 9/22     | 10/7    |
+| Assignment 1         | 10/13    | 10/19    |
+| Assignment 2         | 10/20    | 10/26    |
+| Project milestone    | 10/27    | 11/2     |
+| Lab 1                | 11/3     | 11/9    |
+| Lab 2                | 11/10    | 11/23    |
+| Project presentation | 11/24    | 12/1     |
+| Project final report | 11/24    | 12/8     |
 
 ## Course Description
 
