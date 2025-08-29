@@ -7,7 +7,7 @@
   topic: Introduction and Overview of DeFi
   quiz:
     name: None
-  # ama: "[IN-PERSON] Dawn Song: DeFi Overview"
+  ama: "Arther Gervais (UCL): DeFi Overview"
   # live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
   # recording: https://drive.google.com/file/d/1ai7mQjlJ3WtmzlogYzEyU18lhMgSlULb/view
   # youtube_premiere: https://youtu.be/gX3mc83CJtQ
@@ -37,12 +37,12 @@
   # quiz:
   #   name: Quiz 1
   #   link: https://www.gradescope.com/courses/608404/assignments/3267971
-  # ama: "[ONLINE] Will Cong (Cornell): Introduction to Web3 Economics and Oracle Networks"
+  # ama: ""
   # live_slides: "f24/lec2-will-cong.pdf"
   # recording: https://drive.google.com/file/d/1YWe5Y1RcJe2FIQbE_q-Ajvs9-Oab1ATM/view?usp=sharing
 - date: 09/22
   topic: Introduction to Traditional Finance
-  # ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
+  ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
   # recording: https://drive.google.com/file/d/1AAEmlOnDr9k4kDueGbbForWp5l8Tqwqr/view?usp=sharing
   # live_slides: "f24/defi-mooc-parlour.pdf"
   # youtube_premiere: https://youtu.be/hux0B-wBCwU
@@ -61,7 +61,7 @@
   #   link: https://www.gradescope.com/courses/848451/assignments/4979560
 - date: 09/29
   topic: Introduction to Smart Contracts
-  # ama: "[ONLINE] Andrew Miller (UIUC): The use of Trusted Execution Environments (TEE) in DeFi"
+  ama: "[ONLINE] Kaihua Qin (Yale)"
   # recording: https://drive.google.com/file/d/1bZO3bxQpeQNB59Alq7uecbactRLt9Dnw/view?usp=sharing
   # live_slides: "f24/lec4-andrew-miller.pdf"
   # youtube_premiere: https://youtu.be/iK93guovsXQ
@@ -109,7 +109,7 @@
   #     file: Uniswap v3 Core.pdf
 - date: 10/13
   topic: Oracles
-  # ama: "[ONLINE] Ari Juels (Cornell): The Oracle: A Crypto Thriller Novel"
+  ama: "Ruizhe Jia (Stanford)"
   # recording: https://drive.google.com/file/d/1NkF1_sIoj84i5SmLQ4jPikORlzPYWY54/view?usp=sharing
   # live_slides: "f24/lec6-ari-juels.pdf"
   # quiz:
@@ -129,7 +129,7 @@
   #     file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/20
   topic: Decentralized Lending
-  # ama: "[IN-PERSON] Sandro Herbig and Alex Blania (Worldcoin): System Overview of the World Project"
+  ama: "Rod Garratt (UCSB)"
   # youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
   # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
   # quiz:
@@ -151,7 +151,7 @@
   #     file: The Decentralized Financial Crisis.pdf
 - date: 10/27
   topic: Stablecoins
-  # ama: "[ONLINE] Fan Zhang (Yale): (De)centralization of Ethereum's builder market"
+  ama: "Darrell Duffie (Stanford)"
   # recording: https://drive.google.com/file/d/1NiFfav63xWSnFp5NvAipnn9XtqfkOFX0/view?usp=sharing
   # live_slides: "f24/lec8-fan-zhang.pdf"
   # youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
@@ -174,7 +174,7 @@
   #     file: Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks.pdf
 - date: 11/03
   topic: Privacy on the Blockchain
-  # ama: "[ONLINE] Arthur Gervais (UCL): Oracles and Censorship"
+  ama: "Hart Montgomery (Linux Foundation)"
   # recording: https://drive.google.com/file/d/1YUfyAnMJpL5S1XTYo-B34JSTi0lMhiPO/view?usp=sharing
   # live_slides: "f24/lec9-arthur-gervais.pdf"
   # youtube_premiere: https://youtu.be/H3GmsxRU1Kw

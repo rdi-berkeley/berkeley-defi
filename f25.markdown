@@ -14,9 +14,9 @@ CS194-177 · CS294-177
 <!-- 
 - If you need a permission code to join the course, please fill out [this form](https://forms.gle/HSKg5XVADmrS9Brj6 ) and we'll get back to you as soon as possible.
 - If you cannot attend in-person lectures and must join remotely, please fill out [this form](https://forms.gle/BESJPsXVFDQdzSmSA).
-- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/8zSpvZuAkNnnoetc8) after watching the lecture recording.
-- For general course content related questions, please join our [Edstem](https://edstem.org/us/join/3vd3KG).
-- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span> -->
+- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/8zSpvZuAkNnnoetc8) after watching the lecture recording. -->
+- For general course content related questions, please join our [Edstem](https://edstem.org/us/join/yVcYQg).
+- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span>
 
 <i>Please note that this course is currently in development and website content may be updated as we finalize materials and details.</i>
 
@@ -43,8 +43,7 @@ CS194-177 · CS294-177
 
 ## Course Staff
 
-<!-- Zhe Ye (TA), Matthew Fogel (Reader) -->
-Zhe Ye (TA)
+Zhe Ye (TA), Kevin Tseng (Reader)
 
 ## Meetings
 
@@ -54,7 +53,7 @@ Synchronous lectures: <br>
 **Monday, 10:30 AM - 11:30 AM** <br>
 **Tan 180** <br>
 
-Join remote: Link TBA <!-- [Zoom](https://berkeley.zoom.us/j/95209690888?pwd=FEVsVBybduLBo1gCApA6591kBmY9au.1) -->
+Join remote: [Zoom](https://berkeley.zoom.us/j/96606531359?pwd=RjJ2mr3AbTflmLKGUoLPK5eF2Drlzb.1)
 
 <!-- Synchronous lecture: 10:30am-12:30pm PT Thu (Remote), starting Aug 26; or follow online asynchronously with video lectures -->
 
