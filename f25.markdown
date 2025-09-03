@@ -11,10 +11,10 @@ redirect_from:
 <h2>Fall 2025</h2>
 CS194-177 · CS294-177
 </center><p></p>
-<!-- 
-- If you need a permission code to join the course, please fill out [this form](https://forms.gle/HSKg5XVADmrS9Brj6 ) and we'll get back to you as soon as possible.
-- If you cannot attend in-person lectures and must join remotely, please fill out [this form](https://forms.gle/BESJPsXVFDQdzSmSA).
-- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/8zSpvZuAkNnnoetc8) after watching the lecture recording. -->
+
+- If you need a permission code to join the course, please fill out [this form](https://forms.gle/zqF25ffYAvGuobMi6) and we'll get back to you as soon as possible.
+- If you cannot attend in-person lectures and must join remotely, please fill out [this form](https://forms.gle/PMdM57sgKBwX6Mj88).
+- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/wkcrWsfNbeiezHcr5) after watching the lecture recording.
 - For general course content related questions, please join our [Edstem](https://edstem.org/us/join/yVcYQg).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span>
 
