@@ -75,6 +75,7 @@ CS graduate students: please register for CS294-177.<br>
 
 This is a variable-unit course. The requirements for each number of units are listed below.
 
+- 1 units: attend lectures + article + weekly quizzes
 - 2 units: attend lectures + labs + weekly quizzes
 - 3 units: attend lectures + labs + weekly quizzes + class project
 - 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
@@ -112,6 +113,15 @@ The class will have short written homework and hands-on labs. Students enrolling
 
 <table>
   <tr>
+    <td style="vertical-align: top">
+      <b>1 unit</b><br><br>
+      <table>
+        <tr><td>Participation</td><td>25%</td></tr>
+        <tr><td>Quizzes</td><td>25%</td></tr>
+        <tr><td>Assignments</td><td>15%</td></tr>
+        <tr><td>Article</td><td>35%</td></tr>
+      </table>
+    </td>
     <td style="vertical-align: top">
       <b>2 units</b><br><br>
       <table>
