@@ -10,8 +10,8 @@
   ama: "Arther Gervais (UCL): DeFi Overview"
   # live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
   # recording: https://drive.google.com/file/d/1ai7mQjlJ3WtmzlogYzEyU18lhMgSlULb/view
-  # youtube_premiere: https://youtu.be/gX3mc83CJtQ
-  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
+  youtube_premiere: https://youtu.be/gX3mc83CJtQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL
   reading:
     - name: CeFi vs. DeFi
       file: arthur-cefi-vs-defi-2106.08157.pdf

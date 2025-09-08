@@ -221,6 +221,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | Lab 2                | 11/10    | 11/23    |
 | Project presentation | 11/24    | 12/1     |
 | Project final report | 11/24    | 12/8     |
+| Article (1 unit)     | 11/24    | 12/8     |
 
 ## Course Description
 
