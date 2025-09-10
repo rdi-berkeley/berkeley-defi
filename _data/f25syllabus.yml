@@ -8,7 +8,7 @@
   quiz:
     name: None
   ama: "Arther Gervais (UCL): DeFi Overview"
-  # live_slides: "f24/lec1-dawn-intro-defi-f24.pptx.pdf"
+  live_slides_url: https://docs.google.com/presentation/d/1q110h6AUubYqrGLlWKvYoHgTeqqARlqj/edit?usp=sharing&ouid=103700858730147930293&rtpof=true&sd=true
   # recording: https://drive.google.com/file/d/1ai7mQjlJ3WtmzlogYzEyU18lhMgSlULb/view
   youtube_premiere: https://youtu.be/gX3mc83CJtQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorojSlcoLBPRfoNGzQFywaL

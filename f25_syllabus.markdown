@@ -66,6 +66,9 @@ permalink: /f25_syllabus
           {% if row.live_slides %}
             <br><a target="_parent" href="https://rdi.berkeley.edu/berkeley-defi/assets/material/{{row.live_slides}}" style="text-decoration: underline;">Slides</a>
           {% endif %}
+          {% if row.live_slides_url %}
+            <br><a target="_parent" href="{{row.live_slides_url}}" style="text-decoration: underline;">Slides</a>
+          {% endif %}
         {% else %}
           TBD
         {% endif %}
