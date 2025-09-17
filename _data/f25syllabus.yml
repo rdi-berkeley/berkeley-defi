@@ -45,20 +45,20 @@
   ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
   # recording: https://drive.google.com/file/d/1AAEmlOnDr9k4kDueGbbForWp5l8Tqwqr/view?usp=sharing
   # live_slides: "f24/defi-mooc-parlour.pdf"
-  # youtube_premiere: https://youtu.be/hux0B-wBCwU
-  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
-  # reading:
-  # - name: Money in the Modern Economy
-  #   file: money-in-the-modern-economy-an-introduction.pdf
-  # - name: Money Creation in the Modern Economy
-  #   file: money-creation-in-the-modern-economy.pdf
-  # - name: Measuring Trade Execution Costs in Financial Markets
-  #   file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
-  # - name: Market Microstructure
-  #   file: Biais_Glosten_spatt.pdf
-  # quiz:
-  #   name: Quiz 2
-  #   link: https://www.gradescope.com/courses/848451/assignments/4979560
+  youtube_premiere: https://youtu.be/hux0B-wBCwU
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
+  reading:
+  - name: Money in the Modern Economy
+    file: money-in-the-modern-economy-an-introduction.pdf
+  - name: Money Creation in the Modern Economy
+    file: money-creation-in-the-modern-economy.pdf
+  - name: Measuring Trade Execution Costs in Financial Markets
+    file: Bid-Ask-Spreads-Measuring-Trade-Execution-Costs-in-Financial-Markets-2010.pdf
+  - name: Market Microstructure
+    file: Biais_Glosten_spatt.pdf
+  quiz:
+    name: Quiz 2
+    link: https://www.gradescope.com/courses/1092666/assignments/6772402/
 - date: 09/29
   topic: Introduction to Smart Contracts
   ama: "[ONLINE] Kaihua Qin (Yale)"
