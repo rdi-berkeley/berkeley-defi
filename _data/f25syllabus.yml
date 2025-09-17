@@ -38,8 +38,8 @@
     name: Quiz 1
     link: https://www.gradescope.com/courses/1092666/assignments/6713496
   ama: "Liyi Zhou (University of Sydney): Hunting Vulnerabilities with AI"
-  # live_slides: "f24/lec2-will-cong.pdf"
-  # recording: https://drive.google.com/file/d/1YWe5Y1RcJe2FIQbE_q-Ajvs9-Oab1ATM/view?usp=sharing
+  live_slides: "f25/lec2-liyi-zhou.pdf"
+  recording: https://drive.google.com/file/d/1M7llak82PJ2OG4mpp5ECCoS5jizuAVU_/view?usp=drive_link
 - date: 09/22
   topic: Introduction to Traditional Finance
   ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
