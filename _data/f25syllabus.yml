@@ -43,8 +43,8 @@
 - date: 09/22
   topic: Introduction to Traditional Finance
   ama: "[IN-PERSON] Christine Parlour: Introduction to Traditional Finance"
-  # recording: https://drive.google.com/file/d/1AAEmlOnDr9k4kDueGbbForWp5l8Tqwqr/view?usp=sharing
-  # live_slides: "f24/defi-mooc-parlour.pdf"
+  recording: https://drive.google.com/file/d/12iITdppbC1TKdpiW6q0Wl2ALcZOPmBuh/view?usp=sharing
+  live_slides: "f25/lec3-christine-parlour.pdf"
   youtube_premiere: https://youtu.be/hux0B-wBCwU
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopkwJ5xwpgrspD87nqZggfx
   reading:
@@ -63,7 +63,7 @@
   topic: Introduction to Smart Contracts
   ama: "[ONLINE] Kaihua Qin (Yale)"
   # recording: https://drive.google.com/file/d/1bZO3bxQpeQNB59Alq7uecbactRLt9Dnw/view?usp=sharing
-  # live_slides: "f24/lec4-andrew-miller.pdf"
+  # live_slides: "f25/lec4-andrew-miller.pdf"
   youtube_premiere: https://youtu.be/iK93guovsXQ
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopgX7C17qwyCOS0pNsKayEE
   quiz:
