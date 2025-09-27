@@ -37,7 +37,7 @@
   quiz:
     name: Quiz 1
     link: https://www.gradescope.com/courses/1092666/assignments/6713496
-  ama: "Liyi Zhou (University of Sydney): Hunting Vulnerabilities with AI"
+  ama: "[ONLINE] Liyi Zhou (University of Sydney): Hunting Vulnerabilities with AI"
   live_slides: "f25/lec2-liyi-zhou.pdf"
   recording: https://drive.google.com/file/d/1M7llak82PJ2OG4mpp5ECCoS5jizuAVU_/view?usp=drive_link
 - date: 09/22
@@ -61,7 +61,7 @@
   #   link: https://www.gradescope.com/courses/848451/assignments/4979560
 - date: 09/29
   topic: Introduction to Smart Contracts
-  ama: "[ONLINE] Kaihua Qin (Yale)"
+  ama: "[ONLINE] Kaihua Qin (University of Warwick): Front-running, Imitation, Decompilation - Dark Forest Survival Skills"
   # recording: https://drive.google.com/file/d/1bZO3bxQpeQNB59Alq7uecbactRLt9Dnw/view?usp=sharing
   # live_slides: "f24/lec4-andrew-miller.pdf"
   # youtube_premiere: https://youtu.be/iK93guovsXQ
