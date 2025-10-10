@@ -85,17 +85,17 @@
       link: https://solidity-by-example.org/
 - date: 10/06
   topic: DEX
-  # ama: "[IN-PERSON] Peter Nobel"
+  ama: "NO CLASS"
   youtube_premiere: https://youtu.be/pRO5YW5qb-k
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopoR-FHiMwfoMLT-opXlfJF
   quiz:
     name: Quiz 4
     link: https://www.gradescope.com/courses/1092666/assignments/6879673
-  # slides:
-  #   - name: DEX
-  #     file: Updated Lecture 5 Slides.pdf
-  #   - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
-  #     file: Dan Robinson Lecture Slides.pdf
+  slides:
+    - name: DEX
+      file: Updated Lecture 5 Slides.pdf
+    - name: (Guest speaker Dan Robinson (Paradigm) [Uniswap case study])
+      file: Dan Robinson Lecture Slides.pdf
   reading:
     - name: Analysis of Uniswap Markets
       file: Analysis of Uniswap Markets.pdf
@@ -109,7 +109,7 @@
       file: Uniswap v3 Core.pdf
 - date: 10/13
   topic: Oracles
-  ama: "Ruizhe Jia (Stanford)"
+  ama: "NO CLASS"
   # recording: https://drive.google.com/file/d/1NkF1_sIoj84i5SmLQ4jPikORlzPYWY54/view?usp=sharing
   # live_slides: "f24/lec6-ari-juels.pdf"
   quiz:
@@ -117,9 +117,9 @@
     link: https://www.gradescope.com/courses/1092666/assignments/6924195
   youtube_premiere: https://youtu.be/vFcW18ZpPZ4
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3Rtgoo70DT2YsBmNUol4134S9C9
-  # slides:
-  #   - name: Oracles
-  #     file: COMPRESSED Oracle Lecture—DeFi course.pdf
+  slides:
+    - name: Oracles
+      file: COMPRESSED Oracle Lecture—DeFi course.pdf
   reading:
     - name: An Authenticated Data Feed for Smart Contracts
       file: An Authenticated Data Feed for Smart Contracts.pdf
@@ -129,7 +129,7 @@
       file: Liberating Web Data Using Decentralized Oracles.pdf
 - date: 10/20
   topic: Decentralized Lending
-  ama: "Rod Garratt (UCSB)"
+  ama: "[IN-PERSON] Ruizhe Jia (Stanford)"
   # youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
   # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
   # quiz:
@@ -210,12 +210,35 @@
   #   - name: Practical Smart Contract Security
   #     file: Lecture 12 Slides.pdf
 - date: 11/17
+  topic: Synthetics and Derivatives
+  ama: "[IN-PERSON] Christine Parlour: Synthetics, Derivatives and Tokenized Assets"
+  # quiz:
+  #   name: Quiz 10 # NOTE: kevin: this quiz is not available on f24, remind me to find it.
+  #   link: https://www.gradescope.com/courses/608404/assignments/3550961
+  # youtube_premiere: https://youtu.be/zzaXGqQcRZQ
+  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO
+  # slides:
+  #   - name: Synthetics And Derivatives I
+  #     file: Lecture 9 Slides.pdf
+  #   - name: Synthetics And Derivatives II
+  #     file: Lecture 9 Slides Arthur.pdf
+  # reading:
+  #   - name: Exchange-Traded Funds
+  #     file: Exchange-Traded Funds.pdf
+  #   - name: The Economics of Central Clearing
+  #     file: The Economics of Central Clearing.pdf
+  #   - name: Margin Account Requirements
+  #     link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
+  #   - name: US Repo Fact Sheet (2021)
+  #     file: 2021-US-Repo-Fact-Sheet.pdf
+- date: 11/24
   topic: DeFi Security II
+  ama: "Dawn Song"
   # ama: "[IN-PERSON] David Schwartz (Ripple): Building the Bridge Between DeFi and TradFi for a Secure and Scalable Financial System"
   # youtube_premiere: https://youtu.be/GIHa2GQJY1k
   # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9
   # quiz:
-  #   name: Quiz 10
+  #   name: Quiz 11
   #   link: https://www.gradescope.com/courses/848451/assignments/5100144
   # slides:
   #   - name: Smart Contract Security
@@ -231,13 +254,14 @@
   #     file: Profit-Generating Transactions.pdf
   #   - name: Quantifying Blockchain Abstractable Value
   #     file: Quantifying Blockchain Abstractable Value.pdf
-- date: 11/24
+- date: 12/1
   topic: Decentralized Identities
+  ama: "Rod Garratt (UCSB)"
   # ama: Project presentation (no synchronous lecture)
   # youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
   # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
   # quiz:
-  #   name: Quiz 11
+  #   name: Quiz 12
   #   link: https://www.gradescope.com/courses/848451/assignments/5100145
   # slides:
   #   - name: Decentralized Identities
