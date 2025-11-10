@@ -130,7 +130,7 @@
 - date: 10/20
   topic: Decentralized Lending
   ama: "[IN-PERSON] Ruizhe Jia (Stanford)"
-  recording: https://drive.google.com/file/d/1Sk0lbHEHcOb833Iz7V_xLuKMttcfKWfW/view?usp=sharing
+  # recording: https://drive.google.com/file/d/1Sk0lbHEHcOb833Iz7V_xLuKMttcfKWfW/view?usp=sharing
   live_slides: "f25/lec7-ruizhe-jia.pdf"
   youtube_premiere: https://www.youtube.com/watch?v=dKk9rGWDoTI
   youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgopKAIGCW92jePNHwTGk5GmK
@@ -154,7 +154,7 @@
 - date: 10/27
   topic: Stablecoins
   ama: "Darrell Duffie (Stanford): Stablecoin risks and opportunities"
-  # recording: https://drive.google.com/file/d/1leipN-Tz3zpQkcIj5bfoVPBi1hWOVNiJ/view?usp=sharing
+  recording: https://drive.google.com/file/d/1leipN-Tz3zpQkcIj5bfoVPBi1hWOVNiJ/view?usp=sharing
   live_slides: "f25/lec8-darrell-duffie.pdf"
   youtube_playlist: https://www.youtube.com/playlist?list=PLS01nW3RtgopICEFsRCvT_SIjoOtGa869
   quiz:
