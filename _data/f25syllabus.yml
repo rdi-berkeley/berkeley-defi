@@ -215,25 +215,25 @@
 - date: 11/17
   topic: Synthetics and Derivatives
   ama: "[IN-PERSON] Christine Parlour: Synthetics, Derivatives and Tokenized Assets"
-  # quiz:
-  #   name: Quiz 10 # NOTE: kevin: this quiz is not available on f24, remind me to find it.
-  #   link: https://www.gradescope.com/courses/608404/assignments/3550961
-  # youtube_premiere: https://youtu.be/zzaXGqQcRZQ
-  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO
-  # slides:
-  #   - name: Synthetics And Derivatives I
-  #     file: Lecture 9 Slides.pdf
-  #   - name: Synthetics And Derivatives II
-  #     file: Lecture 9 Slides Arthur.pdf
-  # reading:
-  #   - name: Exchange-Traded Funds
-  #     file: Exchange-Traded Funds.pdf
-  #   - name: The Economics of Central Clearing
-  #     file: The Economics of Central Clearing.pdf
-  #   - name: Margin Account Requirements
-  #     link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
-  #   - name: US Repo Fact Sheet (2021)
-  #     file: 2021-US-Repo-Fact-Sheet.pdf
+  quiz:
+    name: Quiz 10
+    link: https://www.gradescope.com/courses/1092666/assignments/7140058
+  youtube_premiere: https://youtu.be/zzaXGqQcRZQ
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgorofqPdP4clTLzvs9ERXhSO
+  slides:
+    - name: Synthetics And Derivatives I
+      file: Lecture 9 Slides.pdf
+    - name: Synthetics And Derivatives II
+      file: Lecture 9 Slides Arthur.pdf
+  reading:
+    - name: Exchange-Traded Funds
+      file: Exchange-Traded Funds.pdf
+    - name: The Economics of Central Clearing
+      file: The Economics of Central Clearing.pdf
+    - name: Margin Account Requirements
+      link: https://www.finra.org/rules-guidance/key-topics/margin-accounts
+    - name: US Repo Fact Sheet (2021)
+      file: 2021-US-Repo-Fact-Sheet.pdf
 - date: 11/24
   topic: DeFi Security II
   ama: "Dawn Song"
