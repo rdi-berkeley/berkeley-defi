@@ -214,7 +214,9 @@
       file: Lecture 12 Slides.pdf
 - date: 11/17
   topic: Synthetics and Derivatives
-  ama: "Christine Parlour: Synthetics, Derivatives and Tokenized Assets"
+  ama: "Christine Parlour: Payment Systems"
+  recording: https://drive.google.com/file/d/19HrVFqyackD3uxuAVy9_D4hatgbwAcma/view?usp=sharing
+  live_slides: "f25/lec10-christine.pdf"
   quiz:
     name: Quiz 10
     link: https://www.gradescope.com/courses/1092666/assignments/7143153
