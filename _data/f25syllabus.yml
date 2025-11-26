@@ -265,23 +265,23 @@
   # ama: Project presentation (no synchronous lecture)
   # youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
   # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
-  # quiz:
-  #   name: Quiz 12
-  #   link: https://www.gradescope.com/courses/848451/assignments/5100145
-  # slides:
-  #   - name: Decentralized Identities
-  #     file: Defi MOOC - Decentralized Identity.pptx.pdf
-  # reading:
-  #   - name: Proof of Person
-  #     file: Proof of Person.pdf
-  #   - name: CanDID
-  #     file: CanDID.pdf
-  #   - name: IPFS
-  #     file: IPFS.pdf
-  #   - name: Axioms of Web Architecture
-  #     link: https://www.w3.org/DesignIssues/Axioms.html#uri
-  #   - name: Quadratic Payments
-  #     link: https://vitalik.ca/general/2019/12/07/quadratic.html
+  quiz:
+    name: Quiz 12
+    link: https://www.gradescope.com/courses/1092666/assignments/7222086
+  slides:
+    - name: Decentralized Identities
+      file: Defi MOOC - Decentralized Identity.pptx.pdf
+  reading:
+    - name: Proof of Person
+      file: Proof of Person.pdf
+    - name: CanDID
+      file: CanDID.pdf
+    - name: IPFS
+      file: IPFS.pdf
+    - name: Axioms of Web Architecture
+      link: https://www.w3.org/DesignIssues/Axioms.html#uri
+    - name: Quadratic Payments
+      link: https://vitalik.ca/general/2019/12/07/quadratic.html
 # - date: 12/09
 #   topic: Decentralized Identities (Optional)
 #   ama: None
