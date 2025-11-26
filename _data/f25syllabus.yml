@@ -263,8 +263,8 @@
   topic: Decentralized Identities
   ama: "Rod Garratt (UCSB)"
   # ama: Project presentation (no synchronous lecture)
-  # youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
-  # youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
+  youtube_premiere: https://www.youtube.com/watch?v=3FL-1HMKvYA
+  youtube_playlist: https://youtube.com/playlist?list=PLS01nW3RtgoqeqwxBvpe30OXwdMQ5khWi
   quiz:
     name: Quiz 12
     link: https://www.gradescope.com/courses/1092666/assignments/7222086
